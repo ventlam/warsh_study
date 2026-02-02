@@ -1,64 +1,109 @@
-# Hoover Search Index - Kevin Warsh
+# Hoover Search Index - Kevin Warsh (Filtered)
 
 authors: Vent&GPT
 tags: [sources, hoover, search, index]
 created: 2026-02-02
 updated: 2026-02-02
 
-## Index: global_search
-- 1769801958 | Trump Picks Kevin Warsh As Fed Chair | https://www.hoover.org/research/trump-picks-kevin-warsh-fed-chair
-- 1769801958 | Hoover Institution Congratulates Kevin Warsh On His Nomination As Next Federal Reserve Chair | https://www.hoover.org/hoover-institution-congratulates-kevin-warsh-his-nomination-next-federal-reserve-chair
-- 1765049958 | What Drives Inflation Now? A Clear Explanation Using Mervyn King, John Cochrane, Stephen Miran And Kevin Warsh’s Competing Ideas | https://www.hoover.org/research/what-drives-inflation-now-clear-explanation-using-mervyn-king-john-cochrane-stephen-miran
-- 1763321958 | The Federal Reserve’s Broken Leadership | https://www.hoover.org/research/federal-reserves-broken-leadership
-- 1761331158 | Kevin Warsh: Inflation Report Released After 24 Days Of Data Darkness | https://www.hoover.org/research/kevin-warsh-inflation-report-released-after-24-days-data-darkness
-- 1761331158 | Kevin Warsh: Trump Touts Falling Prices, Strong Economic Growth Despite The Fed's 'Fool' | https://www.hoover.org/research/kevin-warsh-trump-touts-falling-prices-strong-economic-growth-despite-feds-fool
-- 1760639958 | Trump's Economic Policies Will Take Time To 'Work Their Way Through The System,' Says Ex-Federal Reserve Governor Kevin Warsh | https://www.hoover.org/research/trumps-economic-policies-will-take-time-work-their-way-through-system-says-ex-federal
-- 1759948758 | Kevin Warsh Says Jerome Powell Has Failed. Inside The Mind Of The Man Who May Lead The Trump Fed. | https://www.hoover.org/research/kevin-warsh-says-jerome-powell-has-failed-inside-mind-man-who-may-lead-trump-fed
-- 1753382358 | Ex-Fed Governor Kevin Warsh Explains His View For ‘Regime Change’ At The Federal Reserve As Trump Mulls Powell Replacement | https://www.hoover.org/research/ex-fed-governor-kevin-warsh-explains-his-view-regime-change-federal-reserve-trump-mulls
-- 1752777558 | Kevin Warsh Touts ‘Regime Change’ At Fed And Calls For Partnership With Treasury | https://www.hoover.org/research/kevin-warsh-touts-regime-change-fed-and-calls-partnership-treasury
-- 1752431958 | Kevin Warsh: Federal Reserve Withstands Calls From Trump To Cut Interest Rates | https://www.hoover.org/research/kevin-warsh-federal-reserve-withstands-calls-trump-cut-interest-rates
-- 1751999958 | Bad Fed Policy Is Holding Back An Economic Boom: Kevin Warsh | https://www.hoover.org/research/bad-fed-policy-holding-back-economic-boom-kevin-warsh
-- 1751999958 | Inflation Is A Choice: Kevin Warsh On Fixing The Federal Reserve  | https://www.hoover.org/research/inflation-choice-kevin-warsh-fixing-federal-reserve
-- 1748630358 | Kevin Warsh: Jerome Powell Doesn't Want To Move Too Early, Former NEC Director Says | https://www.hoover.org/research/kevin-warsh-jerome-powell-doesnt-want-move-too-early-former-nec-director-says
-- 1746902358 | Kevin Warsh Says Fed’s Current Statements Imply Impaired Credibility | https://www.hoover.org/research/kevin-warsh-says-feds-current-statements-imply-impaired-credibility
-- 1745759285 | Kevin Warsh On Fed Policy And Independence | https://www.hoover.org/research/kevin-warsh-fed-policy-and-independence
-- 1745779158 | The High Cost Of The Fed’s Mission Creep | https://www.hoover.org/research/high-cost-feds-mission-creep
-- 1745606358 | G30 Spring Lecture 2025 - Kevin Warsh, "Commanding Heights: Central Banks At A Crossroads" | https://www.hoover.org/research/g30-spring-lecture-2025-kevin-warsh-commanding-heights-central-banks-crossroads
-- 1741977558 | Inflation Is A Choice And The Fed Has Made A Lot Of Bad Choices Over The Past Years, Former Fed Governor Kevin Warsh Says | https://www.hoover.org/research/inflation-choice-and-fed-has-made-lot-bad-choices-over-past-years-former-fed-governor
-- 1741891158 | Trump Is Starting To Roll Up His Sleeves On A Deregulatory Agenda, Former Fed Governor Kevin Warsh Says | https://www.hoover.org/research/trump-starting-roll-his-sleeves-deregulatory-agenda-former-fed-governor-kevin-warsh-says
-- 1740166758 | Kevin Warsh On RealClearPolitics | https://www.hoover.org/research/kevin-warsh-realclearpolitics
-- 1736969958 | The Fed Can’t Pin Inflation On Trump | https://www.hoover.org/research/fed-cant-pin-inflation-trump
-- 1736451098 | Kevin Warsh: Is This A Vote Of No Confidence For Fed Chair Powell? | https://www.hoover.org/research/kevin-warsh-vote-no-confidence-fed-chair-powell
-- 1730835558 | Federal Bankers Should Be 'Resisting' Fads Like DEI To Focus On Wellbeing Of All: Kevin Warsh | https://www.hoover.org/research/federal-bankers-should-be-resisting-fads-dei-focus-wellbeing-all-kevin-warsh
-- 1729795158 | Former Fed Governor Kevin Warsh: The Fed Doesn’t Seem To Have A Serious Theory Of Inflation | https://www.hoover.org/research/former-fed-governor-kevin-warsh-fed-doesnt-seem-have-serious-theory-inflation
-- 1726857558 | The Federal Reserve Is Saying 'Mission Accomplished' Prematurely: Kevin Warsh | https://www.hoover.org/research/federal-reserve-saying-mission-accomplished-prematurely-kevin-warsh
-- 1722019158 | The Real Economy Is Weakening: Kevin Warsh | https://www.hoover.org/research/real-economy-weakening-kevin-warsh
-- 1722191958 | Interest Rates Are A Sideshow In The Fed Drama | https://www.hoover.org/research/interest-rates-are-sideshow-fed-drama
-- 1718217558 | Americans Are Paying A Higher Inflation Tax Every Day: Kevin Warsh | https://www.hoover.org/research/americans-are-paying-higher-inflation-tax-every-day-kevin-warsh
-- 1714156758 | Federal Reserve's Credibility Has Been 'Strained' By Errors: Kevin Warsh | https://www.hoover.org/research/federal-reserves-credibility-has-been-strained-errors-kevin-warsh
-- 1713551958 | Hoover Institution Launches ‘Ideas Uncorked’ Series In Washington, DC, With Talk By Kevin Warsh | https://www.hoover.org/news/hoover-institution-launches-ideas-uncorked-series-washington-dc-talk-kevin-warsh
-- 1711564758 | The Fed Should Talk A Lot Less: Kevin Warsh | https://www.hoover.org/research/fed-should-talk-lot-less-kevin-warsh
-- 1711391958 | Former Fed Governor Kevin Warsh: I’m Less Impressed About The Strength Of The US Economy Today | https://www.hoover.org/research/former-fed-governor-kevin-warsh-im-less-impressed-about-strength-us-economy-today
-- 1710873558 | Uncle Sam’s Guide To Peace And Prosperity | https://www.hoover.org/research/uncle-sams-guide-peace-and-prosperity
-- 1703101158 | Fmr. Fed Governor Kevin Warsh: The Fed Is Giving Transparency ‘A Very Bad Name’ | https://www.hoover.org/research/fmr-fed-governor-kevin-warsh-fed-giving-transparency-very-bad-name
-- 1697135958 | This Contradiction In Central Banking Must Be Fixed: Kevin Warsh | https://www.hoover.org/research/contradiction-central-banking-must-be-fixed-kevin-warsh
-- 1696963158 | Michael Spence And Kevin Warsh: Global Inflation: One Year Later -- Decisions CEOs Should Make | https://www.hoover.org/research/michael-spence-and-kevin-warsh-global-inflation-one-year-later-decisions-ceos-should-make
-- 1696466624 | The Bond Market’s Message | https://www.hoover.org/research/bond-markets-message
-- 1695321558 | Kevin Warsh: Has The Fed Produced A Soft Economic Landing? | https://www.hoover.org/research/kevin-warsh-has-fed-produced-soft-economic-landing
-- 1694975958 | Fed May Pencil In Another Interest Rate Hike This Year: Kevin Warsh | https://www.hoover.org/research/fed-may-pencil-another-interest-rate-hike-year-kevin-warsh
-- 1692902358 | Federal Reserve Is 'Fearful' Of A Hot Economy Kevin Warsh | https://www.hoover.org/research/federal-reserve-fearful-hot-economy-kevin-warsh
-- 1691001558 | Kevin Warsh, Former Member Of The Federal Reserve’s Board Of Governors – Study The Leaders Around You | https://www.hoover.org/research/kevin-warsh-former-member-federal-reserves-board-governors-study-leaders-around-you
-- 1690310358 | Kevin Warsh Testifies At The Economic Affairs Committee Hearing | https://www.hoover.org/research/kevin-warsh-testifies-economic-affairs-committee-hearing
-- 1686595158 | Fmr. Fed Governor Kevin Warsh Explains Why The Fed Needs To Strengthen The Banking System | https://www.hoover.org/research/fmr-fed-governor-kevin-warsh-explains-why-fed-needs-strengthen-banking-system
-- 1686508758 | How To Prevent Another Financial Crisis | https://www.hoover.org/research/how-prevent-another-financial-crisis
-- 1679510358 | Powell Is In This Situation After Years Of 'Monetary Madness': Kevin Warsh | https://www.hoover.org/research/powell-situation-after-years-monetary-madness-kevin-warsh
-- 1679423958 | Nothing Is More Expensive Than Free Money, Says Fmr. Fed Governor Kevin Warsh | https://www.hoover.org/research/nothing-more-expensive-free-money-says-fmr-fed-governor-kevin-warsh
-- 1679251158 | The U.S. Needs Economic Regime Change | https://www.hoover.org/research/us-needs-economic-regime-change
-- 1676403558 | Kevin Warsh: This Has Been Long In The Making And They Just Need To Get There | https://www.hoover.org/research/kevin-warsh-has-been-long-making-and-they-just-need-get-there
-- 1672876216 | Policy Seminar With John Cochrane, Mickey Levy, Kevin Warsh, And John Taylor | https://www.hoover.org/events/policy-seminar-john-cochrane-mickey-levy-kevin-warsh-and-john-taylor
-
-## Index: publications_series
-- (no items)
-
-## Index: fellow
-- unknown-date | Kevin Warsh | https://www.hoover.org/profiles/kevin-warsh
+## Items
+- 2018-12-13 | The Divide Between Silicon Valley And Washington Is A National-Security Threat | https://www.hoover.org/research/divide-between-silicon-valley-and-washington-national-security-threat | research
+- 2018-12-16 | Fed Tightening? Not Now | https://www.hoover.org/research/fed-tightening-not-now | research
+- 2019-05-03 | Ex-Fed Gov. Kevin Warsh Says Fed Needs To Defend Independence, Expresses Support For Powell | https://www.hoover.org/research/ex-fed-gov-kevin-warsh-says-fed-needs-defend-independence-expresses-support-powell | research
+- 2019-05-03 | Tying Down the Anchor: The Task Gets Tougher | https://www.hoover.org/research/tying-down-anchor-task-gets-tougher | research
+- 2019-05-12 | Notable & Quotable: Kevin Warsh On Federal Reserve Independence | https://www.hoover.org/research/notable-quotable-kevin-warsh-federal-reserve-independence | research
+- 2019-07-28 | Watch: Kevin Warsh at the McCloskey Speaker Series: The State of American Capitalism | https://www.hoover.org/research/watch-kevin-warsh-mccloskey-speaker-series-state-american-capitalism | research
+- 2019-07-30 | Kevin Warsh: McCloskey Speaker Series 2019: The State Of American Capitalism | https://www.hoover.org/research/kevin-warsh-mccloskey-speaker-series-2019-state-american-capitalism | research
+- 2019-10-28 | The Fed Needs Trust, Not Tactics | https://www.hoover.org/research/fed-needs-trust-not-tactics | research
+- 2019-12-07 | Booming US Economy May Soon Be The ‘Strongest Since 1999‘, Kevin Warsh Says | https://www.hoover.org/research/booming-us-economy-may-soon-be-strongest-1999-kevin-warsh-says-0 | research
+- 2020-02-26 | The Fed Can’t Wait To Respond To The Coronavirus | https://www.hoover.org/research/fed-cant-wait-respond-coronavirus | research
+- 2020-02-28 | Ex-Fed Gov Kevin Warsh  Sees Coordinated Global Central Bank Action Soon In Response To Coronavirus | https://www.hoover.org/research/ex-fed-gov-kevin-warsh-sees-coordinated-global-central-bank-action-soon-response | research
+- 2020-03-15 | Let The Fed Administer An Antiviral Shot | https://www.hoover.org/research/let-fed-administer-antiviral-shot | research
+- 2020-03-20 | Fed Appears Off To A Good Start To Combatting Coronavirus Economic Impact, Says Former Fed Governor Kevin Warsh | https://www.hoover.org/research/fed-appears-good-start-combatting-coronavirus-economic-impact-says-former-fed-governor | research
+- 2020-03-24 | Kevin Warsh On COVID-19 And The Federal Reserve | Hoover Virtual Policy Briefing | https://www.hoover.org/research/kevin-warsh-covid-19-and-federal-reserve-hoover-virtual-policy-briefing | research
+- 2020-03-24 | Kevin Warsh on COVID-19 and the Federal Reserve | Hoover Virtual Policy Briefing | https://www.hoover.org/research/kevin-warsh-covid-19-and-federal-reserve-hoover-virtual-policy-briefing-0 | research
+- 2020-03-24 | Kevin Warsh on COVID-19 and the Federal Reserve | Hoover Virtual Policy Briefing | https://www.hoover.org/events/kevin-warsh-covid-19-and-federal-reserve-hoover-virtual-policy-briefing | event
+- 2020-04-02 | Kevin Warsh And The Long Road Back To Economic Recovery | https://www.hoover.org/research/kevin-warsh-and-long-road-back-economic-recovery-0 | research
+- 2020-04-02 | Kevin Warsh And The Long Road Back To Economic Recovery | https://www.hoover.org/research/kevin-warsh-and-long-road-back-economic-recovery | research
+- 2020-04-23 | Kevin Warsh: Response Not Enough To Avoid A Long And Deep Recession | https://www.hoover.org/research/kevin-warsh-response-not-enough-avoid-long-and-deep-recession | research
+- 2020-04-27 | Kevin Warsh: The Exchange: Corona-Nomics | https://www.hoover.org/research/kevin-warsh-exchange-corona-nomics | research
+- 2020-05-22 | Kevin Warsh On The Ricochet Podcast: It Matters | https://www.hoover.org/research/kevin-warsh-ricochet-podcast-it-matters | research
+- 2020-05-25 | The Recovery Needs A Supply-Side Push | https://www.hoover.org/research/recovery-needs-supply-side-push | research
+- 2020-06-17 | Fed Main Street Policy 'Cumbersome, Not Terribly Effective,' Kevin Warsh Says | https://www.hoover.org/research/fed-main-street-policy-cumbersome-not-terribly-effective-kevin-warsh-says | research
+- 2020-06-17 | Former Insider Kevin Warsh Chides Fed For ‘Late’ Main Street Response | https://www.hoover.org/research/former-insider-kevin-warsh-chides-fed-late-main-street-response | research
+- 2020-08-04 | Address the Supply Shock | https://www.hoover.org/research/address-supply-shock | research
+- 2020-09-08 | The Fed Puts Its Independence On The Line | https://www.hoover.org/research/fed-puts-its-independence-line | research
+- 2021-01-04 | Beijing’s Bid For Financial Supremacy | https://www.hoover.org/research/beijings-bid-financial-supremacy | research
+- 2021-01-19 | The Fed: A Time for Vigilance | https://www.hoover.org/research/fed-time-vigilance | research
+- 2021-06-07 | The Fed’s Risky Fill-The-Punch-Bowl Strategy | https://www.hoover.org/research/feds-risky-fill-punch-bowl-strategy | research
+- 2021-06-08 | Kevin Warsh: Is Inflation Back? | https://www.hoover.org/research/kevin-warsh-inflation-back | research
+- 2021-06-09 | We Have The Loosest Fiscal Policy In History Of The World: Kevin Warsh | https://www.hoover.org/research/we-have-loosest-fiscal-policy-history-world-kevin-warsh | research
+- 2021-11-30 | Kevin Warsh: The Inflation Spectre Looming In The Global Economy | https://www.hoover.org/research/kevin-warsh-inflation-spectre-looming-global-economy | research
+- 2021-12-12 | The Fed Is The Main Inflation Culprit | https://www.hoover.org/research/fed-main-inflation-culprit | research
+- 2021-12-13 | Kevin Warsh: The Fed Is The Main Inflation Culprit | https://www.hoover.org/research/kevin-warsh-fed-main-inflation-culprit | research
+- 2022-01-05 | Policy Seminar With John Cochrane, Mickey Levy, Kevin Warsh, And John Taylor | https://www.hoover.org/events/roundtable-economic-policy-john-cochrane-mickey-levy-kevin-warsh-and-john-taylor | event
+- 2022-01-20 | Palantir CEO Alex Karp: A Discussion With Kevin Warsh | https://www.hoover.org/research/palantir-ceo-alex-karp-discussion-kevin-warsh | research
+- 2022-02-15 | The Federal Reserve Has No Time To Waste: Kevin Warsh | https://www.hoover.org/research/federal-reserve-has-no-time-waste-kevin-warsh | research
+- 2022-02-21 | The Inflation Mess And A Financial Refuge | https://www.hoover.org/research/inflation-mess-and-financial-refuge | research
+- 2022-03-01 | Reinvigorating Economic Governance: Advancing a New Framework for American Prosperity | https://www.hoover.org/research/reinvigorating-economic-governance-advancing-new-framework-american-prosperity | research
+- 2022-03-30 | Kevin Warsh: The Federal Reserve And The Everything Bubble | https://www.hoover.org/research/kevin-warsh-federal-reserve-and-everything-bubble | research
+- 2022-05-02 | Hoover Fellows John F. Cogan And Kevin Warsh Release New Blueprint For Reinvigorating The Engine Of American Prosperity | https://www.hoover.org/press-releases/hoover-fellows-john-f-cogan-and-kevin-warsh-release-new-blueprint-reinvigorating | news_press
+- 2022-05-19 | Q&A: John F. Cogan And Kevin Warsh On Their New Blueprint For Recharging The Engine Of American Prosperity | https://www.hoover.org/news/qa-john-f-cogan-and-kevin-warsh-their-new-blueprint-recharging-engine-american-prosperity | news_press
+- 2022-06-01 | Fmr. Fed Governor Kevin Warsh: I'm 'Puzzled' By Fed's Slow Inflation Response | https://www.hoover.org/research/fmr-fed-governor-kevin-warsh-im-puzzled-feds-slow-inflation-response | research
+- 2022-07-04 | Kevin Warsh: 2024 Election Must Be About Economic 'Policy' Because America Is At A 'Turning Point' | https://www.hoover.org/research/kevin-warsh-2024-election-must-be-about-economic-policy-because-america-turning-point | research
+- 2022-09-14 | Kevin Warsh And Michael Spence On Global Inflation: Three Decisions CEOs Should Make | https://www.hoover.org/research/kevin-warsh-and-michael-spence-global-inflation-three-decisions-ceos-should-make | research
+- 2022-10-25 | Kevin Warsh: The Federal Reserve’s Big Inflation Fight | https://www.hoover.org/research/kevin-warsh-federal-reserves-big-inflation-fight | research
+- 2022-10-29 | Kevin Warsh: Regime Change At The FED | https://www.hoover.org/research/kevin-warsh-regime-change-fed | research
+- 2022-11-17 | American Renewal: A Conservative Plan to Save the Nation’s Finances and Strengthen the Social Contract | https://www.hoover.org/research/american-renewal-conservative-plan-save-nations-finances-and-strengthen-social-contract | research
+- 2022-11-20 | The U.S. Needs A Better Digital Dollar | https://www.hoover.org/research/us-needs-better-digital-dollar | research
+- 2022-11-29 | The Ethos Of Economics With John Cogan And Kevin Warsh | https://www.hoover.org/research/ethos-economics-john-cogan-and-kevin-warsh | research
+- 2023-01-04 | Policy Seminar With John Cochrane, Mickey Levy, Kevin Warsh, And John Taylor | https://www.hoover.org/events/policy-seminar-john-cochrane-mickey-levy-kevin-warsh-and-john-taylor | event
+- 2023-02-14 | Kevin Warsh: This Has Been Long In The Making And They Just Need To Get There | https://www.hoover.org/research/kevin-warsh-has-been-long-making-and-they-just-need-get-there | research
+- 2023-03-19 | The U.S. Needs Economic Regime Change | https://www.hoover.org/research/us-needs-economic-regime-change | research
+- 2023-03-21 | Nothing Is More Expensive Than Free Money, Says Fmr. Fed Governor Kevin Warsh | https://www.hoover.org/research/nothing-more-expensive-free-money-says-fmr-fed-governor-kevin-warsh | research
+- 2023-03-22 | Powell Is In This Situation After Years Of 'Monetary Madness': Kevin Warsh | https://www.hoover.org/research/powell-situation-after-years-monetary-madness-kevin-warsh | research
+- 2023-06-11 | How To Prevent Another Financial Crisis | https://www.hoover.org/research/how-prevent-another-financial-crisis | research
+- 2023-06-12 | Fmr. Fed Governor Kevin Warsh Explains Why The Fed Needs To Strengthen The Banking System | https://www.hoover.org/research/fmr-fed-governor-kevin-warsh-explains-why-fed-needs-strengthen-banking-system | research
+- 2023-07-25 | Kevin Warsh Testifies At The Economic Affairs Committee Hearing | https://www.hoover.org/research/kevin-warsh-testifies-economic-affairs-committee-hearing | research
+- 2023-08-02 | Kevin Warsh, Former Member Of The Federal Reserve’s Board Of Governors – Study The Leaders Around You | https://www.hoover.org/research/kevin-warsh-former-member-federal-reserves-board-governors-study-leaders-around-you | research
+- 2023-08-24 | Federal Reserve Is 'Fearful' Of A Hot Economy Kevin Warsh | https://www.hoover.org/research/federal-reserve-fearful-hot-economy-kevin-warsh | research
+- 2023-09-17 | Fed May Pencil In Another Interest Rate Hike This Year: Kevin Warsh | https://www.hoover.org/research/fed-may-pencil-another-interest-rate-hike-year-kevin-warsh | research
+- 2023-09-21 | Kevin Warsh: Has The Fed Produced A Soft Economic Landing? | https://www.hoover.org/research/kevin-warsh-has-fed-produced-soft-economic-landing | research
+- 2023-10-05 | The Bond Market’s Message | https://www.hoover.org/research/bond-markets-message | research
+- 2023-10-10 | Michael Spence And Kevin Warsh: Global Inflation: One Year Later -- Decisions CEOs Should Make | https://www.hoover.org/research/michael-spence-and-kevin-warsh-global-inflation-one-year-later-decisions-ceos-should-make | research
+- 2023-10-12 | This Contradiction In Central Banking Must Be Fixed: Kevin Warsh | https://www.hoover.org/research/contradiction-central-banking-must-be-fixed-kevin-warsh | research
+- 2023-12-20 | Fmr. Fed Governor Kevin Warsh: The Fed Is Giving Transparency ‘A Very Bad Name’ | https://www.hoover.org/research/fmr-fed-governor-kevin-warsh-fed-giving-transparency-very-bad-name | research
+- 2024-03-19 | Uncle Sam’s Guide To Peace And Prosperity | https://www.hoover.org/research/uncle-sams-guide-peace-and-prosperity | research
+- 2024-03-25 | Former Fed Governor Kevin Warsh: I’m Less Impressed About The Strength Of The US Economy Today | https://www.hoover.org/research/former-fed-governor-kevin-warsh-im-less-impressed-about-strength-us-economy-today | research
+- 2024-03-27 | The Fed Should Talk A Lot Less: Kevin Warsh | https://www.hoover.org/research/fed-should-talk-lot-less-kevin-warsh | research
+- 2024-04-19 | Hoover Institution Launches ‘Ideas Uncorked’ Series In Washington, DC, With Talk By Kevin Warsh | https://www.hoover.org/news/hoover-institution-launches-ideas-uncorked-series-washington-dc-talk-kevin-warsh | news_press
+- 2024-04-26 | Federal Reserve's Credibility Has Been 'Strained' By Errors: Kevin Warsh | https://www.hoover.org/research/federal-reserves-credibility-has-been-strained-errors-kevin-warsh | research
+- 2024-06-12 | Americans Are Paying A Higher Inflation Tax Every Day: Kevin Warsh | https://www.hoover.org/research/americans-are-paying-higher-inflation-tax-every-day-kevin-warsh | research
+- 2024-07-26 | The Real Economy Is Weakening: Kevin Warsh | https://www.hoover.org/research/real-economy-weakening-kevin-warsh | research
+- 2024-07-28 | Interest Rates Are A Sideshow In The Fed Drama | https://www.hoover.org/research/interest-rates-are-sideshow-fed-drama | research
+- 2024-09-20 | The Federal Reserve Is Saying 'Mission Accomplished' Prematurely: Kevin Warsh | https://www.hoover.org/research/federal-reserve-saying-mission-accomplished-prematurely-kevin-warsh | research
+- 2024-10-24 | Former Fed Governor Kevin Warsh: The Fed Doesn’t Seem To Have A Serious Theory Of Inflation | https://www.hoover.org/research/former-fed-governor-kevin-warsh-fed-doesnt-seem-have-serious-theory-inflation | research
+- 2024-11-05 | Federal Bankers Should Be 'Resisting' Fads Like DEI To Focus On Wellbeing Of All: Kevin Warsh | https://www.hoover.org/research/federal-bankers-should-be-resisting-fads-dei-focus-wellbeing-all-kevin-warsh | research
+- 2025-01-09 | Kevin Warsh: Is This A Vote Of No Confidence For Fed Chair Powell? | https://www.hoover.org/research/kevin-warsh-vote-no-confidence-fed-chair-powell | research
+- 2025-01-15 | The Fed Can’t Pin Inflation On Trump | https://www.hoover.org/research/fed-cant-pin-inflation-trump | research
+- 2025-02-21 | Kevin Warsh On RealClearPolitics | https://www.hoover.org/research/kevin-warsh-realclearpolitics | research
+- 2025-03-13 | Trump Is Starting To Roll Up His Sleeves On A Deregulatory Agenda, Former Fed Governor Kevin Warsh Says | https://www.hoover.org/research/trump-starting-roll-his-sleeves-deregulatory-agenda-former-fed-governor-kevin-warsh-says | research
+- 2025-03-14 | Inflation Is A Choice And The Fed Has Made A Lot Of Bad Choices Over The Past Years, Former Fed Governor Kevin Warsh Says | https://www.hoover.org/research/inflation-choice-and-fed-has-made-lot-bad-choices-over-past-years-former-fed-governor | research
+- 2025-04-25 | G30 Spring Lecture 2025 - Kevin Warsh, "Commanding Heights: Central Banks At A Crossroads" | https://www.hoover.org/research/g30-spring-lecture-2025-kevin-warsh-commanding-heights-central-banks-crossroads | research
+- 2025-04-27 | Kevin Warsh On Fed Policy And Independence | https://www.hoover.org/research/kevin-warsh-fed-policy-and-independence | research
+- 2025-04-27 | The High Cost Of The Fed’s Mission Creep | https://www.hoover.org/research/high-cost-feds-mission-creep | research
+- 2025-05-10 | Kevin Warsh Says Fed’s Current Statements Imply Impaired Credibility | https://www.hoover.org/research/kevin-warsh-says-feds-current-statements-imply-impaired-credibility | research
+- 2025-05-30 | Kevin Warsh: Jerome Powell Doesn't Want To Move Too Early, Former NEC Director Says | https://www.hoover.org/research/kevin-warsh-jerome-powell-doesnt-want-move-too-early-former-nec-director-says | research
+- 2025-07-08 | Bad Fed Policy Is Holding Back An Economic Boom: Kevin Warsh | https://www.hoover.org/research/bad-fed-policy-holding-back-economic-boom-kevin-warsh | research
+- 2025-07-08 | Inflation Is A Choice: Kevin Warsh On Fixing The Federal Reserve  | https://www.hoover.org/research/inflation-choice-kevin-warsh-fixing-federal-reserve | research
+- 2025-07-13 | Kevin Warsh: Federal Reserve Withstands Calls From Trump To Cut Interest Rates | https://www.hoover.org/research/kevin-warsh-federal-reserve-withstands-calls-trump-cut-interest-rates | research
+- 2025-07-17 | Kevin Warsh Touts ‘Regime Change’ At Fed And Calls For Partnership With Treasury | https://www.hoover.org/research/kevin-warsh-touts-regime-change-fed-and-calls-partnership-treasury | research
+- 2025-07-24 | Ex-Fed Governor Kevin Warsh Explains His View For ‘Regime Change’ At The Federal Reserve As Trump Mulls Powell Replacement | https://www.hoover.org/research/ex-fed-governor-kevin-warsh-explains-his-view-regime-change-federal-reserve-trump-mulls | research
+- 2025-10-08 | Kevin Warsh Says Jerome Powell Has Failed. Inside The Mind Of The Man Who May Lead The Trump Fed. | https://www.hoover.org/research/kevin-warsh-says-jerome-powell-has-failed-inside-mind-man-who-may-lead-trump-fed | research
+- 2025-10-16 | Trump's Economic Policies Will Take Time To 'Work Their Way Through The System,' Says Ex-Federal Reserve Governor Kevin Warsh | https://www.hoover.org/research/trumps-economic-policies-will-take-time-work-their-way-through-system-says-ex-federal | research
+- 2025-10-24 | Kevin Warsh: Inflation Report Released After 24 Days Of Data Darkness | https://www.hoover.org/research/kevin-warsh-inflation-report-released-after-24-days-data-darkness | research
+- 2025-10-24 | Kevin Warsh: Trump Touts Falling Prices, Strong Economic Growth Despite The Fed's 'Fool' | https://www.hoover.org/research/kevin-warsh-trump-touts-falling-prices-strong-economic-growth-despite-feds-fool | research
+- 2025-11-16 | The Federal Reserve’s Broken Leadership | https://www.hoover.org/research/federal-reserves-broken-leadership | research
+- 2025-12-06 | What Drives Inflation Now? A Clear Explanation Using Mervyn King, John Cochrane, Stephen Miran And Kevin Warsh’s Competing Ideas | https://www.hoover.org/research/what-drives-inflation-now-clear-explanation-using-mervyn-king-john-cochrane-stephen-miran | research
+- 2026-01-30 | Hoover Institution Congratulates Kevin Warsh On His Nomination As Next Federal Reserve Chair | https://www.hoover.org/hoover-institution-congratulates-kevin-warsh-his-nomination-next-federal-reserve-chair | news_press
+- 2026-01-30 | Trump Picks Kevin Warsh As Fed Chair | https://www.hoover.org/research/trump-picks-kevin-warsh-fed-chair | research
+- unknown-date | Kevin Warsh | https://www.hoover.org/profiles/kevin-warsh | fellow
