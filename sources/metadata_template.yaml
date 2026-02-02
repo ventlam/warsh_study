@@ -1,0 +1,22 @@
+# Metadata template for Kevin Warsh sources
+title: ""
+date: ""
+source: ""
+source_type: "" # speech | testimony | interview | op-ed | report | profile | commentary | video | podcast
+original_url: ""
+author_or_host: ""
+publisher: ""
+language: ""
+region: ""
+topics:
+  - ""
+policy_stance:
+  - "" # inflation | growth | financial-stability | regulation | independence | global | liquidity
+summary: ""
+key_quotes:
+  - ""
+reliability_tier: "" # primary | secondary
+notes: ""
+collected_by: "Vent&GPT"
+collected_at: ""
+updated_at: ""

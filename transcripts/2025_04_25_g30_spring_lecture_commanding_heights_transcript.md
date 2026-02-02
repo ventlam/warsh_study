@@ -1,0 +1,1550 @@
+# G30 Spring Lecture 2025 - Commanding Heights (Transcript)
+
+authors: Vent&GPT
+tags: [transcript, hoover, g30, monetary-policy, central-banking]
+created: 2026-02-02
+updated: 2026-02-02
+
+## Source
+- title: G30 Spring Lecture 2025 - Kevin Warsh, "Commanding Heights: Central Banks At A Crossroads"
+- page: https://www.hoover.org/research/g30-spring-lecture-2025-kevin-warsh-commanding-heights-central-banks-crossroads
+- video: https://www.youtube.com/live/kXuXhIBP3cw
+- extracted_from: YouTube auto transcript
+
+## Transcript
+- [00:04] [Music]
+- [00:20] Good afternoon everyone. Uh my name is
+- [00:22] Ragu Rajan and a few weeks ago I took
+- [00:26] over from Mark Carney who's away doing
+- [00:29] something else. Uh as uh as chairman of
+- [00:32] the group of 30. Uh as you might know
+- [00:36] the group of 30 was established uh
+- [00:39] around 50 years ago. We are an
+- [00:42] independent global body comprised of
+- [00:44] economic and financial leaders from the
+- [00:46] public and private sectors as well as
+- [00:49] academia.
+- [00:51] What we hope to do is deepen our
+- [00:54] collective understanding of global
+- [00:56] economic and financial issues and to
+- [00:59] explore the international repercussions
+- [01:02] of decisions taken in the public and
+- [01:05] private
+- [01:06] sectors. At a time of growing
+- [01:08] nationalism and rapidly changing global
+- [01:11] dynamics, our role in fostering debate
+- [01:14] and reflection has, in my view, become
+- [01:17] even more important.
+- [01:19] This spring lecture where we are joined
+- [01:22] by so many friends and supporters from
+- [01:24] the financial
+- [01:26] community both from the public sector as
+- [01:29] well as the private sector and from
+- [01:31] across the globe is a continuation of
+- [01:35] this process of debate and
+- [01:37] reflection. I'm glad to see so many of
+- [01:40] you here. We're also joined on live
+- [01:43] stream by many members of the G30
+- [01:46] community. Thank you very much for
+- [01:48] participating in this
+- [01:50] process. Also for the speakers today,
+- [01:53] let me emphasize that we have members of
+- [01:56] the press with us. Uh they're certainly
+- [01:58] most welcome and however it does mean
+- [02:02] that everything that is said today uh
+- [02:04] including the Q&A session are on the
+- [02:08] record. Today's lecture will be
+- [02:10] presented by Kevin Walsh, a member and
+- [02:14] trustee of the group of 30. But before
+- [02:17] we hear him, let me first thank managing
+- [02:20] director Christina Georgva and the
+- [02:23] International Monetary Fund for hosting
+- [02:26] us and continuing to offer us their
+- [02:30] hospitality. Now, let me invite the
+- [02:32] managing director to give opening
+- [02:34] remarks and to introduce the speaker.
+- [02:38] [Applause]
+- [02:43] Uh thank you very much Rau. Uh it is my
+- [02:48] great honor and pleasure
+- [02:51] uh to be with you today. I'm very proud
+- [02:55] that the IMF ranks produce many of the
+- [03:00] G30
+- [03:02] members. Um and I promise we will
+- [03:05] produce more.
+- [03:07] Uh I hope you are having a good spring
+- [03:10] meetings. Uh it was certainly very busy
+- [03:13] time uh for me. Uh and on this u uh
+- [03:18] event I think I would have the privilege
+- [03:22] to introduce the speaker and then just
+- [03:25] sit and
+- [03:26] listen.
+- [03:29] Um our speaker is fantastic. Kevin Walsh
+- [03:34] spent much of his career working on
+- [03:38] critical monetary policy and financial
+- [03:40] sector issues. So just listen to my
+- [03:44] introduction if you don't know him. He
+- [03:46] went to
+- [03:48] Stanford, Harvard and
+- [03:51] MIT. He worked on Wall
+- [03:55] Street. He advised President George W.
+- [03:58] Bush on capital markets and banking
+- [04:01] issues.
+- [04:02] He then was the youngest ever appointee
+- [04:06] to the Federal Reserve Board and served
+- [04:10] with great distinction during the global
+- [04:13] financial crisis where he was the Fed's
+- [04:16] main liazison to both Wall Street and
+- [04:20] the G20. His
+- [04:23] expertise about the inner workings of
+- [04:26] the financial system proved invaluable
+- [04:29] to help the Fed restore financial
+- [04:32] stability and avert an even deeper
+- [04:36] downturn. Kevin is now back to
+- [04:39] Stanford as a lecturer at the Stanford
+- [04:42] School of Business and a visiting fellow
+- [04:46] at the Hoover Institution. He also sits
+- [04:49] on the panel of economic adviserss to
+- [04:52] the Congressional Budget
+- [04:54] Office among other
+- [04:56] things. Uh the theme of Kevin's speech
+- [04:59] is monetary policy at a
+- [05:04] crossroad and um uh oh you haven't put
+- [05:08] the uh the title of the speech on the
+- [05:11] screen. Okay. Well, that is the title.
+- [05:15] Uh it is indeed appropriate to take
+- [05:18] stock after the biggest inflation surge
+- [05:21] in several decades and for central
+- [05:24] bankers to consider what needs to be
+- [05:27] done to achieve their goal in a world
+- [05:30] that is more shockprone and changing
+- [05:34] faster than ever.
+- [05:36] If you look back at the most recent
+- [05:39] period, many central banks have made
+- [05:42] good progress in bringing inflation back
+- [05:45] down to near
+- [05:46] target by keeping inflation expectations
+- [05:50] anchored. They reduced the impact on
+- [05:53] output and
+- [05:57] employment. But it is not over yet.
+- [06:02] Inflation has not been defeated and in
+- [06:04] many countries it is still above target
+- [06:07] and new shocks including major shifts in
+- [06:10] trade
+- [06:11] policies in some places may boost
+- [06:15] inflation again while weakening economic
+- [06:18] growth.
+- [06:21] Any central bank with a mandate that
+- [06:23] includes both price and employment
+- [06:27] stability will face very difficult
+- [06:30] choices. But it is vital to ensure that
+- [06:34] high inflation pressures do not become
+- [06:38] entrenched, especially if inflation has
+- [06:41] already run well above target for
+- [06:44] several years.
+- [06:47] Beyond the current conjuncture, the
+- [06:50] recent high inflation experience
+- [06:52] requires us to think about what needs to
+- [06:56] change to help central bankers deal with
+- [06:59] a more unstable
+- [07:01] world.
+- [07:03] Clearly, the existing models fell short
+- [07:07] in predicting the size and persistence
+- [07:10] of the inflation surge.
+- [07:13] We assumed that the stimulus deployed
+- [07:16] during the pandemic which was
+- [07:19] necessary would produce only temporary
+- [07:23] inflation. And we all have to be humble
+- [07:26] to
+- [07:27] recognize that was not the case. So now
+- [07:31] researchers do need to improve their
+- [07:34] inflation models and rethink how central
+- [07:39] banks should act.
+- [07:42] We are paying much more attention to
+- [07:44] supply shocks than before the pandemic.
+- [07:47] And after many years worrying that
+- [07:50] inflation would go too low. Remember
+- [07:52] these years, we need again to worry
+- [07:55] about a the risk of inflation being too
+- [08:00] high. One key issue would be to
+- [08:03] distinguish when to wait and when to
+- [08:06] act. How do we tell when a supply shock
+- [08:10] is temporary and just ride it out and
+- [08:14] when it is time to tighten monetary
+- [08:17] policy? I know that staff at various
+- [08:21] central banks and here at the front are
+- [08:24] thinking deeply about these and other
+- [08:27] critical issues related to monetary
+- [08:29] policy frameworks uh and their
+- [08:32] implementation. uh and I am so grateful
+- [08:35] to Kevin that he is going to give some
+- [08:41] insights. He would tell us how we can
+- [08:46] step up again to what is expected from
+- [08:50] us. Please welcome Kevin to the
+- [08:52] [Applause]
+- [09:01] stage. Uh, Cristina Ragu, thank you very
+- [09:04] much. Very kind of you to uh to include
+- [09:07] me today. Um, I think that as the
+- [09:11] managing director said, this is a time
+- [09:13] of huge consequence for the global
+- [09:15] economy and inviting me. I take that as
+- [09:18] a sign that policymakers consider this a
+- [09:20] time ripe for robust debate and
+- [09:23] deliberation, testing and truthtelling,
+- [09:26] and ultimately a time for choosing
+- [09:27] choosing what policy path we have. Now,
+- [09:30] as Ragu said, there might be an
+- [09:31] alternative reason why I was invited
+- [09:33] today. Your first choice as speaker
+- [09:36] cancelled to become prime
+- [09:38] minister. Uh for those that are not from
+- [09:41] the United States, I'm then playing the
+- [09:43] role of substitute teacher, substitute
+- [09:45] lecturer. In the US, when the substitute
+- [09:48] lecturer comes, the students pay no
+- [09:49] attention. They send paper airplanes.
+- [09:52] So, but I hope because there's so many
+- [09:54] non-Americans here, you take this like
+- [09:56] uh it's a very serious thing. Uh for
+- [09:58] people that have been following my views
+- [10:00] on questions of central banks and
+- [10:02] reforms, much of this will not be new,
+- [10:05] but curiously I hear that there's some
+- [10:07] new interest in my view. So I will
+- [10:09] popularize some some old themes.
+- [10:12] Um I'm here under no illusions. I think
+- [10:16] as the managing director said, this is a
+- [10:18] time of huge consequence and I don't
+- [10:20] exactly think I'm here to the IMF and
+- [10:22] the World Bank bringing coals to
+- [10:24] Newcastle.
+- [10:26] Modern Wilsonians might not be
+- [10:28] completely comfortable with my words,
+- [10:30] but it is not my disposition to grant
+- [10:33] boundless power to government agencies
+- [10:35] to fix the world. I come from a
+- [10:37] different philosophical
+- [10:39] bent. Some might believe that the
+- [10:42] greatest threat to our economy in the US
+- [10:45] and around the world comes from
+- [10:47] outsiders. That is not my view. I
+- [10:50] believe the predominant risks come from
+- [10:52] the choices we make inside the four
+- [10:54] walls of institutions just like this
+- [10:57] one. This is a historic place and it's a
+- [11:01] historic venue. Uh so it's an honor to
+- [11:03] be here. It's especially an honor for
+- [11:05] me. My greatest mentor in my
+- [11:08] professional life was George Schultz who
+- [11:10] passed away at age 100 in the middle of
+- [11:12] COVID. And George thought that these
+- [11:15] institutions, including the IMF and the
+- [11:18] World Bank, the other institutions that
+- [11:20] helped define the post-war era, made the
+- [11:23] 20th century more peaceful and more
+- [11:26] prosperous. But before he passed, he
+- [11:29] said in our penultimate lunch that this
+- [11:32] was the greatest hinge point in history
+- [11:35] of his life at age 100. And that was a
+- [11:38] few years ago. I think if he were
+- [11:39] sitting here with us now, and I feel him
+- [11:42] here in some sense, he'd believe that's
+- [11:45] still true. After World War II, the US
+- [11:48] led a security and economic commons with
+- [11:52] so many friends, so many allies in this
+- [11:54] room that advanced the interests of
+- [11:56] freedom and liberty for much of the 20th
+- [11:59] century. It included very consequential
+- [12:01] roles not just for the US, but friends
+- [12:03] around the world. But as we sit here a
+- [12:07] quarter of a century into the 21st
+- [12:09] century, we have to recognize that the
+- [12:12] world looks decidedly less kind,
+- [12:14] especially the least welloff among our
+- [12:17] citizens. A series of shocks,
+- [12:19] geopolitical, economic, and others have
+- [12:22] been fierce and
+- [12:24] frequent. And the key economic
+- [12:26] institutions that served us well for
+- [12:29] decades have in more recent periods
+- [12:31] fallen short of their
+- [12:33] promises. Absent fundamental reform, we
+- [12:36] need to ask ourselves whether their high
+- [12:38] summer is
+- [12:40] passed. In my view, strengthening
+- [12:43] economic
+- [12:44] performance requires improving economic
+- [12:48] governance. That means new ideas, and
+- [12:50] I'll talk about a few of them, but I'll
+- [12:52] also say a word about
+- [12:54] institutions. It means reforming and in
+- [12:57] some cases restoring institutions to
+- [12:59] their first principles.
+- [13:02] To be trusted, as most of us know who
+- [13:04] have been in around Washington, other
+- [13:06] capitals, economic institutions must be
+- [13:10] trustworthy. To be trustworthy, they
+- [13:13] must prove themselves to be competent in
+- [13:16] good times and bad in all sorts of
+- [13:18] cycles. Economic institutions must also
+- [13:21] maintain deep humility. Managing
+- [13:24] director mentioned that in her remarks,
+- [13:26] and I think it's a useful reminder for
+- [13:27] us all. There are limits to what any of
+- [13:30] us can know about what's happening in
+- [13:32] markets and the economy and limits to
+- [13:34] what we can know about the consequences
+- [13:36] of our policy
+- [13:37] choices. Leaders of these institutions
+- [13:40] have to abide by other limits. Some
+- [13:42] imposed by the constitution, others
+- [13:44] imposed by parliaments and
+- [13:46] legislatures and maybe most important
+- [13:49] limits imposed by the good judgment of
+- [13:51] people that are tasked with leading
+- [13:53] these organizations.
+- [13:55] There is an inherent tendency of
+- [13:57] government organizations to expand their
+- [13:59] footprint and leaders need to help
+- [14:01] police
+- [14:02] that. Institutions also must be
+- [14:05] permitted to act. We can't know in any
+- [14:07] definitive sense what's around the
+- [14:09] corner over the hill, but we need to act
+- [14:12] within well-defined exanti frameworks.
+- [14:15] It's not all just about cleaning up the
+- [14:17] mess
+- [14:17] afterwards. And finally, institutions
+- [14:20] need to be accountable.
+- [14:22] The greater the power of the public
+- [14:24] institution and I see a lot of powerful
+- [14:26] institutions represented in this room.
+- [14:29] The greater the responsibility to
+- [14:31] explain and answer questions about their
+- [14:35] decisions. So I'll turn this a little
+- [14:37] bit more personally. Every philosophy is
+- [14:40] a memoir of sorts. So you're going to
+- [14:42] hear a little bit of my memoir. I think
+- [14:44] it's Nietze who said that. Uh I would
+- [14:46] want to give proper uh uh uh
+- [14:49] credit. So my focus today will be on an
+- [14:52] economic institution that I'm more
+- [14:54] familiar with, the Federal Reserve. You
+- [14:57] can judge whether any of these lessons,
+- [14:59] any of these stories have consequences
+- [15:01] for the institutions that you represent.
+- [15:04] For those who don't know, I was a member
+- [15:05] of the board of governors at the Fed
+- [15:07] more than a dozen years ago. I still
+- [15:10] have the scars to show for the darkest
+- [15:13] days of the financial crisis in 2008
+- [15:16] and9. The debate in Chairman Bernankei's
+- [15:18] office were intense. more intense,
+- [15:21] frankly, than I've read about in all
+- [15:22] these books. But they were also quite
+- [15:25] civil, quite
+- [15:27] consequential. And where I give Chairman
+- [15:29] Bernanki the most credit was he
+- [15:31] surrounded himself not with people who
+- [15:33] agreed with him on everything, but he
+- [15:35] surrounded himself truly with a team of
+- [15:37] rivals. And so we'd have incredible
+- [15:39] fights about what to do because none of
+- [15:41] us knew. And he would decide and we
+- [15:44] would largely fall in line. But that's
+- [15:47] the right lesson it strikes me from that
+- [15:49] period of
+- [15:50] crisis. Nothing about that period was
+- [15:52] easy. Maybe with the benefit of history,
+- [15:54] it looks like the outcomes were all
+- [15:56] quite known. I should say we made plenty
+- [15:59] of good calls and plenty of mistakes
+- [16:01] both. Inevitably, the hardest question
+- [16:04] then and I think the most salient
+- [16:06] question for thus for us today was the
+- [16:09] Fed's role and responsibility.
+- [16:12] I remember after one particularly
+- [16:14] intense uh weekend in 2008, we had come
+- [16:19] up with a new scheme to try to bring
+- [16:21] some liquidity back to markets and we
+- [16:23] were feeling okay about
+- [16:25] ourselves. Uh former chairman Paul
+- [16:27] Vulker was at the New York Economic Club
+- [16:30] and I'll quote what he said, but I
+- [16:32] remember hearing it in real time. He
+- [16:35] said, quote, "The Fed has gone to the
+- [16:38] very edge of its lawful and implied
+- [16:41] power, transcending certain long
+- [16:44] embedded central banking principles and
+- [16:47] practices." Well, we took that as the
+- [16:50] equivalent of a brushback pitch, high
+- [16:53] and tight. For the non-Americans, that's
+- [16:55] a baseball expression. When you want to
+- [16:57] tell the the the Hall of Fame batter,
+- [17:00] it's not going to be so easy. And we
+- [17:03] were struck. Well, let me speak for
+- [17:04] myself. I was struck by that. But we
+- [17:07] continue to work and grind through the
+- [17:09] crisis. As I sit here today in
+- [17:12] 2025, I have to admit that Vulkar's
+- [17:15] warning has gone largely unheeded. Even
+- [17:18] to this day, changes in the role of the
+- [17:21] US central bank have been more have been
+- [17:24] so pervasive as to be nearly invisible.
+- [17:28] The Fed has assumed a much more
+- [17:30] expansive role inside of our government
+- [17:32] on all matters of economic policy.
+- [17:35] Whether you like it or don't like it, we
+- [17:38] should admit of that growing role. The
+- [17:41] Fed has also moved into matters of state
+- [17:43] craft and soul craft too. In my view, as
+- [17:46] we think back over the most recent
+- [17:48] period of years, forays far a field, for
+- [17:52] all seasons and all reasons and with the
+- [17:55] best of intentions have led to
+- [17:57] systematic errors in the conduct of
+- [17:59] macroeconomic policy. The Fed has acted
+- [18:02] more as a general purpose agency of our
+- [18:06] government than a narrow central bank
+- [18:09] that preceded my days as a central
+- [18:11] banker.
+- [18:13] Institutional drift has coincided with
+- [18:15] the Fed's failure to establish and
+- [18:18] achieve an essential part of its
+- [18:20] statutory remmit, price stability, and
+- [18:23] the Fed's outsized role and
+- [18:26] underperformance have weakened the
+- [18:28] important and worthy case for monetary
+- [18:30] policy independence.
+- [18:34] This could be a parochial view I'm going
+- [18:36] to express, but the Fed's probably the
+- [18:39] most important, consequential,
+- [18:41] influential economic agency in the
+- [18:44] world. Its policy uh decisions, its
+- [18:47] choices are transmitted through several
+- [18:49] channels. We teach this in
+- [18:51] macroeconomics to young business school
+- [18:53] students. We talk about foreign exchange
+- [18:55] channels and bond market channels and
+- [18:57] confidence channels, asset price
+- [18:59] channels.
+- [19:01] The most important channel, however, is
+- [19:04] intellectual. That's what I've come to
+- [19:06] speak to you about. And I think that's
+- [19:08] why, as the managing director said,
+- [19:10] that's why we're all here at this
+- [19:12] consequential moment. So, my lecture
+- [19:15] today is more a political treatise than
+- [19:17] how to
+- [19:18] guide. My hope is that it's received in
+- [19:22] the spirits it's intended. It's more a
+- [19:24] love letter than it is a cold critique.
+- [19:27] because I was a central banker and
+- [19:29] understand the essential role that the
+- [19:32] Fed and so many organizations in this
+- [19:34] room play. In order to get to the meat
+- [19:36] of that
+- [19:38] philosophy, see if I can first set aside
+- [19:41] some of what I describe as the fast food
+- [19:44] of central banking. That's part of the
+- [19:47] current practice of monetary policy. We
+- [19:50] can move that aside. I think we can turn
+- [19:52] to a more nutritious meal.
+- [19:55] First, frequent changes to the Fed's
+- [19:57] metrics, including its professed
+- [20:00] preferred measure of inflation, are
+- [20:02] beneath the high standing of any central
+- [20:04] bank. Central bank credibility is the
+- [20:08] coin that purchases American economic
+- [20:12] strength. In Washington, especially in
+- [20:15] Washington, a central banker can ill
+- [20:17] afford to be anything other than a
+- [20:19] straight shooter.
+- [20:21] Second, I do not find the current Fed
+- [20:25] policy, which has gone on from my day,
+- [20:27] of data dependence to be of much value.
+- [20:31] When pushed on that, I say there's only
+- [20:33] two problems with data dependence, the
+- [20:35] data and the dependence.
+- [20:39] We should care very little about what's
+- [20:41] happening two numbers to the right of
+- [20:43] the decimal point in the latest
+- [20:44] government
+- [20:45] release. Breathlessly awaiting trailing
+- [20:48] government data from stale national
+- [20:51] accounts, subject to
+- [20:54] revision subsequent to significant
+- [20:56] change is evidence of false precision in
+- [21:00] this business that we're in and subject
+- [21:02] to a lot of analytic complacency. If
+- [21:04] financial markets want to follow that,
+- [21:06] that's okay. But we central bankers need
+- [21:09] to recognize the error in that data.
+- [21:12] Third, near-term
+- [21:14] forecasting. That was just starting to
+- [21:17] become common when I left the Fed. I
+- [21:20] view for central bankers, it's all too
+- [21:22] common today. It's a distracting Fed
+- [21:26] preoccupation. Econ uh economists are
+- [21:29] not immune to the frailities of human
+- [21:31] nature. Once policymakers, myself
+- [21:34] included, reveal their economic forecast
+- [21:37] to the world, they often become
+- [21:39] prisoners of their own
+- [21:41] words. Fed leaders would be well served
+- [21:44] to skip opportunities to share their
+- [21:46] latest
+- [21:47] musings. The swivel chair problem, as a
+- [21:50] friend described it to me once,
+- [21:52] rhetorically waxing and waning with the
+- [21:54] latest data release is common and it's
+- [21:57] counterproductive.
+- [21:59] Central banker's jobs is not to have the
+- [22:01] perfect forecast. It's to make the best
+- [22:04] decision. So I ask myself whether this
+- [22:07] frequent repetition of forecasts and
+- [22:09] dots is helping us get to the right
+- [22:11] decision when new facts come in or it's
+- [22:14] actually hurting. Fourth, forward
+- [22:17] guidance. It's a related tool rolled out
+- [22:19] to great fanfare in the financial
+- [22:21] crisis. I recall in the darkest days of
+- [22:24] '08 trying to say that the Fed is
+- [22:27] locking its own hands behind its back
+- [22:29] because we wanted markets to know we
+- [22:31] weren't going to quit. So in crisis
+- [22:33] times I I could be persuaded that
+- [22:36] forward guidance should come back. But
+- [22:38] it has little role to play in my view in
+- [22:40] normal times. Moving markets with
+- [22:43] rolling incantations is tempting but
+- [22:46] unhelpful to the Fed's deliberations and
+- [22:49] ultimately its mission. The central bank
+- [22:52] should find new comfort in working
+- [22:54] without applause and without the
+- [22:57] audience at the edge of its
+- [22:58] seats. Now that I've gotten that off my
+- [23:02] chest, we can turn to a more substantial
+- [23:05] offering. So the question I think that's
+- [23:08] to me the core issue at this time and
+- [23:11] place is what happened? How did it
+- [23:15] happen that we now live in a world of
+- [23:17] what I describe as central bank
+- [23:19] dominance?
+- [23:21] From the early 1990s until the
+- [23:25] GFC, the world was rightly
+- [23:28] impressed, myself included, with the
+- [23:30] Fed's track record in ensuring price
+- [23:33] stability and financial
+- [23:35] stability. Central bank chiefs became
+- [23:37] household names, their credibility
+- [23:41] unchallenged. Their opinions were highly
+- [23:44] sought. They became more recognizable to
+- [23:47] the man on the street. But I'll add less
+- [23:51] recognizable day after day to their
+- [23:54] predecessors. In exigent circumstances,
+- [23:57] the Fed is called into action, extending
+- [24:00] its reach and amplifying its
+- [24:02] effect. And that was the reason why the
+- [24:04] modern Fed was created in 1913 to
+- [24:07] respond to panics. Was not created to do
+- [24:10] these other things, but to be a crisis
+- [24:12] manager. But when panics subside, the
+- [24:16] Fed, it strikes me as duty bound to
+- [24:18] retrace its steps. And for many decades,
+- [24:22] after shocks dissipated, economic
+- [24:24] conditions normalized, the Fed largely
+- [24:27] and dutifully exited the main
+- [24:31] stage. In more recent years, the Fed has
+- [24:34] found its way onto the front pages of
+- [24:36] our newspapers, not just in crisis
+- [24:39] times, but all
+- [24:41] times. The Fed has found it harder, it
+- [24:44] strikes me, because Fed leaders are
+- [24:46] human, too, to insulate themselves from
+- [24:49] all the
+- [24:50] attention. Its leaders wear their
+- [24:52] inheritance proudly. When I served, I
+- [24:55] know I did. So, my inquiry is not about
+- [24:58] motivations. We're not in search of some
+- [25:00] nefarious plot. If that were the case,
+- [25:03] this would be easy. My review is about
+- [25:06] capabilities and authorities. And since
+- [25:08] the panic of 2008, central bank
+- [25:11] dominance has become a key and new
+- [25:13] feature of American
+- [25:15] governance. Let me give a few
+- [25:18] examples. I'll first turn to fiscal
+- [25:21] policy. I won't be making any news here
+- [25:24] to say that US fiscal policy is on a
+- [25:27] dangerous
+- [25:29] trajectory.
+- [25:30] Irresponsibility in spending has surged,
+- [25:33] especially in the aftermath of CO.
+- [25:36] Today, the US federal government is
+- [25:40] spending in excess of 60% more than the
+- [25:44] day before CO. And I don't remember the
+- [25:46] day before CO thinking this is one
+- [25:48] auster, efficient, well-run government.
+- [25:51] I remember thinking, well, there's got
+- [25:53] to be plenty of easy cutting to be done.
+- [25:55] 60% more. No plausible economic growth
+- [25:59] can deliver revenues to match that surge
+- [26:02] in spending.
+- [26:04] Now, I struggled to absolve the Fed of
+- [26:07] the nation's fiscal
+- [26:09] profleacy. Fed leaders encouraged
+- [26:13] government spending when times were
+- [26:14] tough a few years back, but did not call
+- [26:17] for fiscal discipline, when times were
+- [26:20] good, at times of sustained growth and
+- [26:22] full employment. Now, left to my own
+- [26:25] devices, I'd prefer monetary
+- [26:28] policymakers to steer clear of fiscal
+- [26:30] commentary altogether.
+- [26:32] But if the Fed chooses, especially under
+- [26:35] exigent circumstances, to cross that
+- [26:37] line, there should be real and
+- [26:39] rhetorical
+- [26:40] symmetry. That however is scarcely my
+- [26:43] chief concern. That one is pretty easily
+- [26:46] fixed. And I trust the Fed is in the
+- [26:49] process of trying to fix
+- [26:50] that. So what's the bigger concern about
+- [26:53] the Fed and fiscal policy?
+- [26:56] The Fed has been the most important
+- [26:58] buyer of US government debt and other
+- [27:00] liabilities backed by the US since
+- [27:04] 2008. The Fed's $7 trillion balance
+- [27:07] sheet today is nearly an order of
+- [27:10] magnitude larger than the day I joined
+- [27:11] the Fed. And I think it's a fair proxy
+- [27:14] for the Fed's growing impimeter on our
+- [27:17] economy. Now, from my time long ago as a
+- [27:20] governor, I bear some measure of
+- [27:22] responsibility for this creation of
+- [27:24] asset
+- [27:25] purchases. We tried to market it as
+- [27:27] credit easing that lasted about a week.
+- [27:30] You all called it quantitative easing,
+- [27:31] so I'll go with
+- [27:33] QE. So, in the '08 crisis, we cut
+- [27:35] interest rates to zero, and it wasn't
+- [27:38] enough. So, we sought new ways to make
+- [27:41] monetary policy looser, to make
+- [27:43] financial markets more liquid. And I
+- [27:46] strongly supported this crisis time
+- [27:48] innovation. But when the crisis ended,
+- [27:52] the Fed never
+- [27:53] retreated. I worried mightily in the
+- [27:55] fall of 2010, a time of strong growth
+- [27:58] and financial stability, the decision to
+- [28:01] buy still more Treasury bonds, would
+- [28:04] involve the Fed in the messy political
+- [28:07] business of fiscal
+- [28:09] policy. QE2 was announced. I disagreed
+- [28:13] with the path of policy and resigned
+- [28:16] from the Fed shortly
+- [28:18] thereafter. QE with fits and starts
+- [28:21] since
+- [28:22] 2010 have become a near permanent
+- [28:25] feature of central bank policy and
+- [28:28] power.
+- [28:30] fiscal policy makers, you know, the
+- [28:32] folks at the other end of Constitution
+- [28:34] Avenue, the elected members of Congress,
+- [28:37] they found it considerably easier from
+- [28:40] that day until this to appropriate money
+- [28:43] knowing the government, central bank
+- [28:46] would be subsidizing the costs of it.
+- [28:49] Economics teaches a couple of lessons.
+- [28:52] One, lowering the near-term cost of debt
+- [28:55] tends to increase its
+- [28:57] quantum. And two, on the current
+- [29:00] trajectory, the high debt burden
+- [29:03] threatens to undermine future economic
+- [29:06] growth. The Fed presents itself as
+- [29:09] humble and technocratic, queuing closely
+- [29:11] to its remitt. They say they take fiscal
+- [29:14] policy decisions as given and then react
+- [29:18] accordingly. But it's no longer obvious
+- [29:20] to me whether monetary policy is
+- [29:23] downstream or upstream from fiscal
+- [29:25] policy. Irresponsibility has a way of
+- [29:28] running in both
+- [29:30] directions. At conferences like this for
+- [29:32] decades, the language we would hear
+- [29:34] would be concerns I thought were quite
+- [29:37] valid about fiscal
+- [29:39] dominance where the nation's debts might
+- [29:41] constrain monetary policymakers make
+- [29:44] might make us to make a decision because
+- [29:46] we're worried about our own nation's
+- [29:49] debt. It was long thought to be a
+- [29:51] possible end state. My view is that
+- [29:55] monetary dominance rather than fiscal
+- [29:58] dominance, monetary dominance where the
+- [30:00] central bank becomes the ultimate
+- [30:02] arbiter of fiscal policy is the clearer
+- [30:05] and more present danger. The line
+- [30:08] between the st central bank and the
+- [30:10] ostensible fiscal authority has grown
+- [30:13] harder to
+- [30:14] identify. The spirit of the Treasury Fed
+- [30:17] Accord of
+- [30:19] 1951 is at odds with recent
+- [30:22] practice. Now coming out of COVID, we
+- [30:26] all to some degree or another became
+- [30:27] amateur immunologists, myself included,
+- [30:30] trying to figure out how to ward off
+- [30:32] this virus. I learned a little
+- [30:34] immunology which I think might have some
+- [30:36] application here. At the time,
+- [30:39] immunologists described a phenomena
+- [30:41] where the immune system's response to a
+- [30:44] virus might impede the response to a
+- [30:47] subsequent variant. They call that
+- [30:49] immunological
+- [30:52] imprinting. So with that background, let
+- [30:54] me make another theory that I'll propose
+- [30:57] to you. I profer a theory of economic
+- [31:00] imprinting whereby the policy choices of
+- [31:03] prior
+- [31:04] periods make the economy more vulnerable
+- [31:07] to shocks and less able to adjust
+- [31:10] organically. Each time the Fed jumps
+- [31:12] into action, the more it expands its
+- [31:15] size and scope, encroaching further on
+- [31:18] other macroeconomic domains. More debt
+- [31:21] is accumulated, more capital
+- [31:24] misallocated, more institutional lines
+- [31:26] cross, and the risks of future shocks
+- [31:29] are
+- [31:30] magnified, causing the Fed
+- [31:33] obviously to act even more aggressively
+- [31:36] when harm strikes. Simply stated, path
+- [31:39] dependency is driving policy, and we
+- [31:42] need to sit here at this moment and ask
+- [31:45] ourselves whether it's driving it into a
+- [31:47] ditch. It's not just dangerous to our
+- [31:49] economy and to your economy. It's not
+- [31:52] just risky business for central bank
+- [31:55] legitimacy. It's riskiest for the least
+- [31:57] welloff among our fellow
+- [31:59] citizens. So that's my little riff on
+- [32:01] fiscal policy. Um let me say something
+- [32:04] about when the Fed wanders
+- [32:08] further. The
+- [32:10] enlightenment elevated the role of
+- [32:12] reason and autonomy in decision-makings.
+- [32:15] You can think of lock or Russo or
+- [32:17] Emanuel Kant. None none could have
+- [32:20] conceived of a central bank like ours.
+- [32:22] Still a fundamental precept of their
+- [32:24] thinking in the age of reason I think is
+- [32:28] readily applicable to the modern
+- [32:30] Fed. They held out a fierce resistance
+- [32:34] to
+- [32:36] whims. Central bankers and bandwagons
+- [32:38] should be total strangers. It would be
+- [32:41] better for the Fed's long-term success
+- [32:44] to focus on the timehonored and the
+- [32:46] enduring rather than the fashionable and
+- [32:49] the
+- [32:49] fleeting. I observe the modern central
+- [32:52] bank, at least in my country, to be a
+- [32:55] bit too willing to traffic in
+- [32:57] contraband. Others can adjudicate
+- [33:00] whether matters of cultural import are
+- [33:02] in the province of the political uh uh
+- [33:05] narrative or civil society, but the
+- [33:07] Fed's business it is not.
+- [33:11] Climate change and inclusion are
+- [33:13] politically charged issues likely to put
+- [33:16] half of the crowd into high dungeon to
+- [33:18] even mention them. People of good
+- [33:20] conscience have their own views, their
+- [33:22] own motivations, their own policy
+- [33:24] prescriptions. Take no issue with any of
+- [33:26] that.
+- [33:27] Elected officials are the ones tasked
+- [33:30] with evaluating data, synthesizing
+- [33:33] views, charting policy, and granting
+- [33:35] authority if they so desire to executive
+- [33:39] branch agencies. The Fed has neither the
+- [33:42] expertise nor the prerogative to make
+- [33:45] political judgments in these areas. The
+- [33:47] Fed's remitt given to us by Congress.
+- [33:50] It's not a suggestion or a jumping off
+- [33:52] point. And as Supreme Court juristp
+- [33:55] prudence makes clear, Congress is not in
+- [33:58] the business of hiding elephants in
+- [34:00] mouse holes. Let me give a couple of
+- [34:03] examples to try to make this real. In
+- [34:06] late 2020, the Fed joined something
+- [34:08] called the network of central banks and
+- [34:10] supervisors for greening the financial
+- [34:12] system. The Fed said it's quote active
+- [34:14] and in many cases playing a leading role
+- [34:16] in climate related work. A year later,
+- [34:20] the Fed said they had intensified their
+- [34:22] focus on supervisory efforts on evolving
+- [34:25] threats like climate change. Fast
+- [34:28] forward to January of 2025, just a few
+- [34:31] months ago in a somewhat different
+- [34:34] political environment. The Fed withdrew
+- [34:36] from the Greening Group and
+- [34:38] substantially changed their
+- [34:40] tune. Some of you might disagree with
+- [34:42] one of those options or both of those
+- [34:46] options. I think the match is what
+- [34:48] bothers me perhaps most of all. Second,
+- [34:52] in August of 2020 at Jackson Hole, the
+- [34:55] Fed announced a new monetary policy
+- [34:58] framework to much
+- [35:00] fanfare. As I heard it then and think
+- [35:02] about it now, the Fed's new regime was
+- [35:04] their end of history
+- [35:06] declaration. As Cristina said at the
+- [35:10] beginning, high inflation they thought
+- [35:12] was vanquished. The dominant risk would
+- [35:14] was that prices would be too low. Well,
+- [35:18] as we all know, history had other ideas.
+- [35:21] As part of the new regime, they were
+- [35:23] defi they redefined their legislative
+- [35:25] remitt of maximum employment. The remit
+- [35:28] given by the Congress as a quote
+- [35:31] broad-based and inclusive goal. The new
+- [35:34] nomenclature of inclusive employment was
+- [35:37] understood to underscore the Fed's
+- [35:39] willingness to accept higher inflation
+- [35:42] so that certain groups could achieve
+- [35:43] higher rates of employment. Or so the
+- [35:45] theory
+- [35:47] goes. More recently, Fed leadership has
+- [35:50] sounded considerably more ambiguous
+- [35:52] whether the new definition of full
+- [35:54] employment was at all different from the
+- [35:56] old. Well, if it's no different in
+- [35:59] practice, then what was the new language
+- [36:01] about? Was it politics or was it in fact
+- [36:05] a change in policy? A new definition
+- [36:08] that's different? Well, if that's true,
+- [36:11] shouldn't Congress have had something to
+- [36:12] say about that? I also have to note the
+- [36:16] economics of this. The steepest price of
+- [36:20] the new policy regime has been paid for
+- [36:23] the last five years by the supposed
+- [36:26] beneficiaries.
+- [36:28] Now, there's a final reason to be
+- [36:30] uncomfortable with the Fed's focus on
+- [36:32] groups, and this goes to the profession
+- [36:34] that we're all
+- [36:36] practicing. Some in our profession have
+- [36:38] tended to deemphasize
+- [36:40] individuals, as if larger forces are in
+- [36:44] charge. In my view, individuals rather
+- [36:47] than groups are the core of civil
+- [36:49] society and frankly the core of American
+- [36:51] prosperity.
+- [36:53] A successful Fed policy regime should
+- [36:56] not view individuals as some cog in the
+- [36:58] machine or as some fixed member of some
+- [37:02] readily definable
+- [37:04] group. What an individual does in the US
+- [37:07] and around the world when he or she
+- [37:09] wakes up in the morning matters
+- [37:11] immeasurably to the path of the
+- [37:14] economy. More broadly, I'll profer
+- [37:17] another theory for you. The central bank
+- [37:20] should consider adopting a principle of
+- [37:22] institutional
+- [37:24] neutrality pioneered in the university
+- [37:27] context often associated with the
+- [37:29] Chicago
+- [37:30] principles. Neither the modern
+- [37:32] university nor the modern central bank
+- [37:34] has a comparative advantage. It strikes
+- [37:36] me as a social justice organization.
+- [37:39] Though they both do a lot of
+- [37:41] good, they should avoid taking positions
+- [37:44] on issues unless such matters plainly
+- [37:46] threaten the core missions of those
+- [37:50] institutions. The more the Fed opines on
+- [37:53] matters outside of its remitt, the more
+- [37:56] it jeopardizes its ability to ensure
+- [37:59] stable prices and full employment and
+- [38:01] the more vulnerable it becomes to the
+- [38:05] body politique. The Fed's expansionist
+- [38:09] tendencies portend existential
+- [38:12] risks. Let me turn then to my final two
+- [38:15] topics of inflation and I hesitate to
+- [38:19] say
+- [38:21] independence. On inflation, for about 40
+- [38:24] years, the American people didn't have
+- [38:26] to think about it.
+- [38:29] And if the Fed's enviable track record
+- [38:31] on price stability had continued through
+- [38:34] this decade, I bet central bankers would
+- [38:37] have been given a wider birth, I bet the
+- [38:40] political class and the man on the
+- [38:42] street might have looked the other way
+- [38:44] to a fair bit of mission
+- [38:45] creep. But then the Fed founder on
+- [38:49] fundamentals and inflation surged.
+- [38:52] The intellectual errors that contributed
+- [38:54] to the great inflation include some mix
+- [38:56] of the following. The central bank came
+- [38:59] to believe that its price stability
+- [39:01] objective was largely self-e executing.
+- [39:05] Inflation was 2% because they said so.
+- [39:08] They came to believe that these big box
+- [39:11] big blackbox models including the DSG
+- [39:14] models that are dominant at the Fed most
+- [39:16] of the profession were anchored in
+- [39:18] reality. Instead, they're just useful
+- [39:20] ways for help us think about frame
+- [39:22] issues to inform what's really
+- [39:25] happening. Perhaps the Fed thought that
+- [39:28] monetary policy had nothing to do with
+- [39:31] money. That the central bank was a
+- [39:34] bystander of forces outside of its
+- [39:37] control. That the surge of Putin and the
+- [39:40] pandemic were blamew worthy for
+- [39:42] inflation, much more so than the surge
+- [39:44] of government spending and government
+- [39:46] printing.
+- [39:48] Stable prices, it strikes me, were the
+- [39:50] Fed's plot armor. For those who aren't
+- [39:53] familiar with that term, I'll say this.
+- [39:55] In Hollywood, if you go to your favorite
+- [39:58] movie, I'm a James Bond fan. We worry
+- [40:00] time and time again about whether James
+- [40:02] is going to make it, whether the car is
+- [40:04] going to go off the cliff with him. But
+- [40:06] what 007s has is plot armor. Of course,
+- [40:10] they can't kill him off. What the Fed
+- [40:13] had was plot armor.
+- [40:15] You might not like what the central bank
+- [40:17] have been doing and this or that or been
+- [40:19] critical like I was about wandering
+- [40:21] away, but my goodness, they're pretty
+- [40:23] good at those stable prices. So, we're
+- [40:25] going to just have to give them a little
+- [40:27] bit of
+- [40:28] license. Like in the movies, it was
+- [40:31] protections for the star against those
+- [40:33] who would dare a challenge. But the
+- [40:35] Fed's roving remitt and grand ambitions,
+- [40:38] however well intended, have expanded its
+- [40:41] surface area and exposed its
+- [40:43] vulnerability.
+- [40:45] So let's close this with a word on
+- [40:47] central bank
+- [40:49] independence. Central bank independence
+- [40:51] is more often bandied than it is
+- [40:53] defined. So let's give that a go.
+- [40:56] Independence is not a policy goal unto
+- [41:00] itself. It's a means a means of
+- [41:03] achieving certain important and
+- [41:05] particular policy outcomes.
+- [41:08] Independence is reflexively declared a
+- [41:11] bit too often for my taste when the Fed
+- [41:14] is
+- [41:16] criticized. But Congress has granted
+- [41:18] important functions to the Federal
+- [41:21] Reserve far removed from monetary
+- [41:23] policy. I'm thinking for example of
+- [41:25] banking and
+- [41:27] supervision. I do not believe the Fed is
+- [41:30] owed any particular difference in bank
+- [41:32] regulatory or supervisory p policy.
+- [41:36] Fed claims of independence in bank
+- [41:38] manners undermine the case for
+- [41:40] independence in the conduct of monetary
+- [41:44] policy. And when the Fed turns away from
+- [41:46] its creed and traditions, exercising
+- [41:49] powers that were once in the province of
+- [41:51] our Treasury Department, or take
+- [41:53] positions on societal issues, whether
+- [41:55] popular or not, it further jeopardize
+- [41:58] jeopardizes the operational independence
+- [42:01] in what matters most.
+- [42:04] I studied economics more than I studied
+- [42:06] law. But my parents wanted me to go to
+- [42:08] law school. So in in their spirit as
+- [42:10] they're looking down, I'll make a single
+- [42:13] reference to the courts. Since Marberry
+- [42:16] versus Madison, a famous case in
+- [42:19] 1803, article 3 courts have been in the
+- [42:22] business of policing article one and
+- [42:24] article 2 powers. That is powers of the
+- [42:26] congress and the president. And since
+- [42:29] McCullik v. Maryland in 1819. The courts
+- [42:33] have wrestled time after time about the
+- [42:36] role and authority of a central bank in
+- [42:38] our republic. Others are far better
+- [42:41] situated than I to sort out the
+- [42:42] constitutional imperatives and
+- [42:44] legislative authorities of the current
+- [42:46] conjuncture. But what I believe is this.
+- [42:50] I strongly believe operational
+- [42:52] independence in the conduct of monetary
+- [42:55] policy is a wise political economy
+- [42:58] decision.
+- [43:00] And I believe Fed independence is
+- [43:03] chiefly up to the
+- [43:05] Fed. That doesn't mean central bankers
+- [43:08] should be treated as pampered princes.
+- [43:11] When monetary policy outcomes are poor,
+- [43:13] the Fed should be subjected to serious
+- [43:15] questioning, strong oversight, and even
+- [43:20] approprium. But a narrow central bank,
+- [43:22] we have to recognize, has more going for
+- [43:24] it than mere tradition.
+- [43:26] Our constitutional republic is accepting
+- [43:29] of an independent central bank only if
+- [43:32] it sticks to its congressionally
+- [43:34] directed duty and successfully performs
+- [43:37] its
+- [43:38] task. Ours is after all our third
+- [43:40] experiment in the US with a central bank
+- [43:43] not because of the success of its
+- [43:45] predecessors but their
+- [43:47] failure. We don't become the third
+- [43:49] central bank the way you win a third
+- [43:51] Super Bowl like keep at it and we keep
+- [43:53] giving you more. It's the third because
+- [43:55] we've struggled with the questions that
+- [43:57] are in the current policy conjuncture
+- [43:59] since the founding of the
+- [44:01] republic. And what's my historical
+- [44:04] lesson from those old fights about the
+- [44:06] Bank of the United
+- [44:07] States? We should remember the revealed
+- [44:10] preference of the body politic is a deep
+- [44:13] distaste for
+- [44:14] inflation also for bailouts and power
+- [44:17] grabs. The governance objectives, it
+- [44:20] strikes me as clear. It's to make the
+- [44:23] central bank safe for democracy, not to
+- [44:25] make democracy safe for the central
+- [44:27] bank. So, in conclusion, before Ragu
+- [44:31] comes up here and asks me a series of
+- [44:33] tough questions, I should say the Fed's
+- [44:36] current wounds are largely
+- [44:39] self-inflicted, and its plot armor isn't
+- [44:42] what it once was. A strategic reset is
+- [44:45] necessary now more than ever to mitigate
+- [44:49] losses of credibility, changes in
+- [44:51] standing, and most important, worse
+- [44:54] economic outcomes for our fellow
+- [44:57] citizens. Now, this all might strike you
+- [44:59] as quite a surprise to
+- [45:02] hear because we central bankers are
+- [45:04] trained to be careful with our critiques
+- [45:07] lest the daylight reveal the magic.
+- [45:10] A bigger risk, it strikes me, is that of
+- [45:13] the sorcerer's apprentice, the misuse of
+- [45:16] magical powers producing
+- [45:18] trouble. Assembled in this room are dear
+- [45:22] friends who served with me in the
+- [45:23] financial crisis, colleagues who served
+- [45:26] with me on the G30, who are doing their
+- [45:28] best in our country and around the world
+- [45:31] to strengthen the economy to ensure duty
+- [45:34] to its remits in various places. We're
+- [45:37] stewards of good and important purposes.
+- [45:40] We can ill afford the closing of the
+- [45:42] monetary mind. And if anything today,
+- [45:45] what I hope for is a richer discourse
+- [45:47] and a richer
+- [45:49] inquiry. We should be a bit less worried
+- [45:52] about violating pieties, prepared to
+- [45:54] endure periodic frowns of
+- [45:57] disapproval because the benefits are
+- [45:59] huge. We can reclaim our intellectual
+- [46:02] freedom. We can get policy back on
+- [46:04] track. We can get stable prices and
+- [46:06] strong economic outcomes. Central bank
+- [46:09] legitimacy demands nothing less. I
+- [46:12] appreciate your time. Thank you for
+- [46:13] listening. Ragu, please come on up and
+- [46:16] uh rough me up a bit.
+- [46:36] So Kevin, uh, thanks. Thank you very
+- [46:40] much for that fantastic lecture. And,
+- [46:43] uh, if you were the substitute teacher,
+- [46:45] I think the main teacher is out of a job
+- [46:47] now.
+- [46:49] I'm not touching that one.
+- [46:51] But let me assure
+- [46:54] you, but not that main teacher. You
+- [46:57] meant Mark. H. No, I didn't. Let me
+- [47:01] assure you, you were our first choice.
+- [47:02] So, thank you very much for doing it.
+- [47:04] And it was a treat. Now, unfortunately,
+- [47:07] I agree pretty much with everything you
+- [47:09] said. So, I don't really have a
+- [47:12] question, which is actually good for
+- [47:13] everyone in the audience because it
+- [47:15] gives you more time. So can I ask uh
+- [47:20] anyone who has a question to stand up
+- [47:23] and uh the mics are around in the aisle
+- [47:26] and just uh raise your hand uh stand up
+- [47:30] indicate your name and institution while
+- [47:32] asking the question and uh and please go
+- [47:36] ahead. So
+- [47:38] uh gentlemen out
+- [47:44] there thank you very much. Well, the Q&A
+- [47:47] session started very quickly. Uh Paul
+- [47:49] Sheared, um Governor Walsh, you talked a
+- [47:52] lot about uh central bank independence
+- [47:54] at the end. You talked about uh the
+- [47:56] critique of fiscal policy and sort of
+- [47:59] maybe some blurring of the lines there,
+- [48:00] but could you say a little bit about how
+- [48:03] you think monetary policy can or could
+- [48:07] or should or should not be coordinated
+- [48:09] with fiscal policy? It's a good and fair
+- [48:12] question. and it's probably the subject
+- [48:14] of a of another lecture. Um, I would say
+- [48:18] that the that inevitably in crisis, we
+- [48:22] have to admit that there is some
+- [48:24] blurring in the edges. In the darkest
+- [48:27] days of 2008 or 2009,
+- [48:30] um, the biggest fights weren't always
+- [48:32] what to do. It was who's going to do
+- [48:34] what.
+- [48:36] In some ways for governments, I'm sure
+- [48:38] this is true for the IMF, for the
+- [48:39] managing director too, the the question
+- [48:42] isn't what's the right policy, it's who
+- [48:46] chooses. So in crisis, I would say those
+- [48:48] lines are quite different. In normal
+- [48:51] times and you know when we uh have
+- [48:55] strong economies, we're basically um
+- [48:59] abiding by remitt. the central bank
+- [49:01] needs to keep its head down and needs to
+- [49:04] focus on its tools, its powers, and its
+- [49:07] influences. Um, and the fiscal
+- [49:09] authorities are going to do what they're
+- [49:11] going to do. I don't tend to be a fan of
+- [49:14] central banking urging the fiscal
+- [49:16] authorities, at least around here, to
+- [49:17] spend more. This is like um asking my
+- [49:20] dog if he wants to go for another hike.
+- [49:23] Um, so so there's a line there. The
+- [49:26] Treasury Fed Accord 1951 reads pretty
+- [49:28] well. If you go back and you say what
+- [49:31] are the responsibilities of the fiscal
+- [49:33] authorities, what do the elected
+- [49:34] representatives get to choose? And then
+- [49:36] the central bank gets to say they've
+- [49:38] made their choice and sequentially we
+- [49:41] now get to make
+- [49:42] ours. In my view, which is not so
+- [49:45] commonly taught in introductory
+- [49:47] macroeconomics anymore, spending matters
+- [49:50] to inflation too. It is not just the
+- [49:53] monetary printing that matters, but both
+- [49:56] are forms of the creation of money and
+- [49:58] they both matter. This is heretical in
+- [50:00] some economics departments. Um, but I I
+- [50:03] guess the simple answer to your question
+- [50:05] is in normal times the Fed should
+- [50:07] respect the decisions that are made by
+- [50:10] those authorities and look around and
+- [50:12] then ask themselves what they should do.
+- [50:15] And what bothers me most is when we're
+- [50:18] doing the buying of the debt from our
+- [50:21] own government in normal times at full
+- [50:23] employment and price stability. I have
+- [50:26] to ask the question because I think I
+- [50:28] was critical enough up there. Is that
+- [50:30] really fiscal policy by other means?
+- [50:33] Have we then decided to cross the lines
+- [50:35] in normal times? And so mine is really a
+- [50:38] a call to reinstate the accord from
+- [50:42] 1951. And I recognize that there's a
+- [50:44] reason why the Treasury Secretary and
+- [50:46] the Fed chair meet every week. Um it's
+- [50:49] because there is some natural overlap.
+- [50:52] There is some coordination. I'm not
+- [50:54] trying to be naive or innocent about it,
+- [50:56] but we central bankers, we should really
+- [50:58] let the rest of government do their bit
+- [51:00] and then we can do ours. So, um let me
+- [51:04] take the prerogative of asking you a
+- [51:06] question in the middle which is um looks
+- [51:10] uh you did a lot during the global
+- [51:12] financial crisis and few would dispute
+- [51:15] the need to do that at that time. But of
+- [51:18] course you also talked about this in
+- [51:20] your in your in your speech which is as
+- [51:23] central banks expand there's a risk of
+- [51:26] going beyond the remit at some point and
+- [51:29] certainly you know treating what you did
+- [51:31] then as business as usual in normal
+- [51:33] times is going to be way beyond your
+- [51:36] remitt. Yeah. How do you put the genie
+- [51:38] back in the bottle? How do you how do
+- [51:40] you say how do you tell the markets
+- [51:43] don't expect this from us again? That
+- [51:45] was a one time uh and you know we need
+- [51:48] another great depression to do it again
+- [51:50] but not before. Yeah. So it's a great
+- [51:52] question. So the naive answer is will
+- [51:56] you just seamlessly return to the status
+- [51:57] quo antie as if nothing ever happened
+- [52:00] but it's naive. That's the essence of
+- [52:02] Ragu's question. um we decided to cross
+- [52:06] lines in the global financial crisis and
+- [52:09] in the pandemic came they decided to
+- [52:12] cross those same lines. Seeing that was
+- [52:15] not enough they had to cross more. I
+- [52:18] think the best that you can do is to do
+- [52:20] two
+- [52:21] things. Ask yourself are there things we
+- [52:24] can better do to mitigate the risks of
+- [52:26] these shocks happening so frequently. So
+- [52:29] the 2008 financial crisis by broad um
+- [52:33] histories was a banking crisis and in my
+- [52:37] judgment had the Fed not stood in the
+- [52:40] global banking system would have proven
+- [52:43] insolvent. Um we worked of course with
+- [52:45] central bankers around the world to
+- [52:47] address that. But it begs the question
+- [52:50] how could we have put ourselves in that
+- [52:52] situation? We have large groups across
+- [52:55] three federal regulators in the US that
+- [52:57] are in the business of banking
+- [52:58] supervision and regulation. The world
+- [53:00] has many more. We meet frequently in
+- [53:02] Basil, Switzerland. And yet, if I ask
+- [53:06] myself, were the reforms that we put in
+- [53:08] place after the financial crisis up to
+- [53:11] the task of dealing with another shock?
+- [53:14] We have a bit of a natural experiment.
+- [53:16] February 2023, we had two relatively
+- [53:19] small, inconsequential banks.
+- [53:22] um a robust regulatory and supervisory
+- [53:25] system should have had a way of dealing
+- [53:28] with it. After all, we central bankers
+- [53:29] said after08, "Never again. We're not
+- [53:32] going to let that happen." Well, the
+- [53:34] natural experiment revealed some
+- [53:36] weaknesses to be kind about the policies
+- [53:39] we then put in place. And markets then
+- [53:42] saw that then officials came to their
+- [53:44] rescue. I'm a little less critical,
+- [53:47] Ragu, of what do crisis manager in
+- [53:50] crisis. I understand that I'm more
+- [53:53] critical about what we do to mitigate
+- [53:55] the crisis. So, one thing you can do is
+- [53:57] try to have fewer shocks and that
+- [53:59] requires a ruthless pragmatism about
+- [54:02] what we get right and what we get wrong.
+- [54:04] Not just blurring it over and saying,
+- [54:05] "Well, it was only two little banks and
+- [54:07] everything swell." And sure, we
+- [54:09] backstopped all the deposits in the US
+- [54:11] using executive authority, but nothing
+- [54:13] to see here. That tells us that we
+- [54:16] didn't do as good a job as we could
+- [54:17] have. So, that's the first thing we can
+- [54:18] do. try to mitigate shocks because they
+- [54:21] seem to be coming more frequently in the
+- [54:24] 21st century at least in economic terms
+- [54:26] than they did now. Your forecasting uh
+- [54:29] can be better than mine but doesn't look
+- [54:31] like an easy environment in front of us
+- [54:32] the next five or 10 years. So what else
+- [54:35] can we do when we have periods of
+- [54:38] relative peace and prosperity between
+- [54:41] shocks? We have to have the rhetoric and
+- [54:44] the reality of we're going back to our
+- [54:47] normal business. This story has more
+- [54:50] going forth than adivism. This is the
+- [54:52] more that markets and market
+- [54:54] participants and businesses and banks
+- [54:56] say, "Boy, they sure seem different now.
+- [54:59] They were crisis managers a few years
+- [55:00] ago. They look kind of different. Their
+- [55:03] policies are different. They've taken
+- [55:05] their monetary policies back to a more
+- [55:07] traditional place. They're not
+- [55:09] spoonfeeding us like they did in the
+- [55:11] crisis, telling us, "Don't worry,
+- [55:12] everything will be okay on Monday."
+- [55:14] the more we comport in our daily
+- [55:17] business like every day is a crisis, the
+- [55:19] more we ask for greater crises and ask
+- [55:22] us to cross lines. So those are two
+- [55:23] suggestions. They're not perfect and I
+- [55:26] wish I could say we could go back to the
+- [55:28] world before08. We can't, but we need to
+- [55:30] address that in I think a more
+- [55:32] fundamental honest way than we have to
+- [55:34] this point.
+- [55:36] Axel then Jacob, these are friends now.
+- [55:39] If these are not if these are not
+- [55:40] softball questions, I'm going to be very
+- [55:42] disappointed.
+- [55:48] Kevin, I feel very reassured that you
+- [55:51] referred a lot to the principles of
+- [55:52] central banking and the three of us,
+- [55:54] Jacob, Ragu and me uh wrote a paper on
+- [55:56] that in the group of 30. So uh I have a
+- [55:59] question on two issues. Uh one dvtales
+- [56:02] on what Ragu said. The central bank
+- [56:05] balance sheet and involvement in markets
+- [56:08] is tenfold of what it was before the
+- [56:11] crisis and also the international role
+- [56:14] of the Federal Reserve through swap
+- [56:16] lines has become a way of operating a
+- [56:20] crisis. How can you
+- [56:22] practically what do you need to do to
+- [56:25] push back from that central involvement
+- [56:28] in the markets and as a sort of you know
+- [56:32] denominator of the international system
+- [56:34] and are there risks in this juncture in
+- [56:37] more of a peace time for the Fed to
+- [56:40] retreat from those sort of roles that
+- [56:42] they involved that it involved into but
+- [56:44] that that weren't invis 40 50 years ago.
+- [56:47] So my given given the uh limited time
+- [56:50] let me ask Jacob also to ask question
+- [56:52] and get one more question from there and
+- [56:54] perhaps you can ask answer all three uh
+- [56:57] depending on the
+- [56:59] up here
+- [57:03] uh thank you well this was a tour the
+- [57:06] fourth amazing I have a very
+- [57:10] simple-minded
+- [57:11] question I was standing in line in the
+- [57:15] supermarket and the lady in front of me
+- [57:17] picked up the
+- [57:19] newspaper and the title was the Fed is
+- [57:23] meeting its inflation
+- [57:26] target and then she went to the cashier
+- [57:29] and said what are they talking about
+- [57:31] prices are so high and I'm paying so
+- [57:34] much so the idea of the distinction
+- [57:37] price level rates of inflation where all
+- [57:39] central banks are focusing on the rates
+- [57:41] of inflation not dealing with past
+- [57:44] deviations that created high crisis
+- [57:46] leaves a challenge. How do we deal with
+- [57:49] it? One last question uh out
+- [57:53] there and if you could state your name
+- [57:56] please and institution.
+- [57:58] Good evening. Um Brunell Rosa from Rosa
+- [58:01] and Rubini. Uh we are an inflection
+- [58:04] point in the monetary system if you want
+- [58:07] with the introduction of digital
+- [58:09] currencies. The Fed has just uh uh
+- [58:12] withdrawn some of the statement made
+- [58:14] with the OCC and
+- [58:16] FDIC on for example stable coins.
+- [58:20] Somebody feel that the introduction of
+- [58:22] the stable coins the way they are
+- [58:24] proposed by the genius and stable acts
+- [58:26] would be a keen return to the free
+- [58:28] banking which was preceding the
+- [58:31] foundation of uh the federal and other
+- [58:34] central banks. What would be your
+- [58:36] opinion on that? Thank you. Sure.
+- [58:39] So that feast do I get to choose or I
+- [58:42] answer all uh pick whatever you want to
+- [58:45] answer and I I just wanted to give you
+- [58:47] some I appreciate it. Uh thank you for
+- [58:50] the softball questions for my friends.
+- [58:52] My goodness. Um so first um to Axel and
+- [58:56] the question which in some sense
+- [58:58] consumes a lot of our discussions when
+- [59:00] we're whispering among each other is so
+- [59:03] you now have this 7 trillion dollar
+- [59:04] balance sheet. Admittedly, it's down
+- [59:06] about 30% from its from its post
+- [59:09] pandemic high. So, what do you do with
+- [59:11] it? How do you deal with it? And I would
+- [59:14] try, well, let's try plainly and
+- [59:16] honestly. Let's give that a shot. Um, we
+- [59:20] created this balance sheet for two
+- [59:23] reasons. in the '08 crisis and in most
+- [59:25] the times that it surged afterwards
+- [59:29] um we were stuck at the zero lower bound
+- [59:31] and we were looking for more looseness
+- [59:32] because zero was not low enough in the
+- [59:34] OA crisis and I believed it then I still
+- [59:37] believe it so we were using the balance
+- [59:40] sheet because that was monetary policy
+- [59:42] by other means parenthetically we also
+- [59:45] used it to bring liquidity into
+- [59:46] financial markets because that's our job
+- [59:49] when on the run off ther run treasury
+- [59:50] spreads are wide it's our job not to set
+- [59:53] the price, but it's central bank's job
+- [59:55] to bring liquidity so the price can be
+- [59:58] set. But on the first point, if it was
+- [01:00:01] monetary policy when we grew the balance
+- [01:00:04] sheet, how could it not be monetary
+- [01:00:06] policy on the other end? Now, we have a
+- [01:00:10] tendency in central banking circles to
+- [01:00:12] say, well, we have very large balance
+- [01:00:14] sheet. Don't look at that. That has
+- [01:00:16] nothing to do with monetary policy.
+- [01:00:18] That's about excess reserves and banking
+- [01:00:20] and liquidity. Um I think we need to be
+- [01:00:24] upfront about was it then monetary
+- [01:00:26] policy and is it not now monetary policy
+- [01:00:30] and if it is the Fed has a couple of
+- [01:00:32] tools that it can work with in the
+- [01:00:33] conduct of monetary policy and on the
+- [01:00:36] question of bringing uh liquidity to
+- [01:00:39] markets. This is at core what the Fed
+- [01:00:42] was created to do more than 100 years
+- [01:00:43] ago. So if we're growing the balance
+- [01:00:46] sheet because of illlquid markets by
+- [01:00:48] buying treasuries because there's a gap
+- [01:00:50] in the fives or the sevens that's okay
+- [01:00:52] but we should call it that. So I
+- [01:00:55] understand just like the question of
+- [01:00:56] fiscal and monetary policy, we cannot be
+- [01:00:58] pure academics on this and say there's
+- [01:01:00] these dividing lines we'll never cross.
+- [01:01:02] But I think a little more cander about
+- [01:01:04] the rationale for the balance sheet,
+- [01:01:06] what our intents are rather than to
+- [01:01:08] suggest somehow we're now stuck with a
+- [01:01:10] large large balance sheet and we'll be
+- [01:01:12] buying debts from our own government for
+- [01:01:14] the rest of time strikes me as as as as
+- [01:01:18] a very different message to the broader
+- [01:01:20] point I think both from Axel and Jacob
+- [01:01:23] about the US the Federal Reserve. First,
+- [01:01:26] in all of Jacob's stories, there's
+- [01:01:28] always a kernel of truth. The thing that
+- [01:01:29] was not true in his is there are no
+- [01:01:31] newspapers anymore. Jacob, people don't
+- [01:01:34] they don't go to the store. They don't
+- [01:01:35] have them at the store. But he was
+- [01:01:37] making a point about the Federal Reserve
+- [01:01:39] and the rest. Listen, because of the
+- [01:01:42] inheritance of Chairman Pal and his gang
+- [01:01:46] of central bankers, chairman uh uh
+- [01:01:49] Bernani and his gang of central bankers
+- [01:01:52] and because of the incredible vibrancy
+- [01:01:54] and resiliency of the US economy since
+- [01:01:58] 1946. It is understandable that the US
+- [01:02:01] Treasury and the Federal Reserve would
+- [01:02:02] be playing a very large role in the
+- [01:02:06] economy. It's very understandable that
+- [01:02:09] the dollar is the world's reserve
+- [01:02:10] currency and plays this incredibly
+- [01:02:12] important role. Those are all of course
+- [01:02:15] true. But we central bankers, we don't
+- [01:02:18] need to demonstrate that every day. It's
+- [01:02:20] demonstrated by the dynamism of the
+- [01:02:22] economy, by the prudence of our
+- [01:02:23] policies, by the legacies we've
+- [01:02:26] inherited in the choices that we make.
+- [01:02:28] So I understand this is not saying US is
+- [01:02:31] just another country and we should leave
+- [01:02:33] the main stage and you know just sort of
+- [01:02:36] keep our heads down. We have important
+- [01:02:37] responsibilities and my view is the
+- [01:02:40] better the rest of the world's economy
+- [01:02:42] the more that spills back into our
+- [01:02:44] economy. So I'm sympathetic with that
+- [01:02:46] notion but that doesn't mean that we
+- [01:02:48] central bankers need to stay on the
+- [01:02:50] front pages of of these newspapers every
+- [01:02:52] day. There will come a time where we
+- [01:02:54] need to get back on the front pages and
+- [01:02:57] it's better if we get back on them from
+- [01:02:58] page B12 of the business section where
+- [01:03:01] there's a little six paragraph line
+- [01:03:03] written by a reporter you've never heard
+- [01:03:05] of and it says the Federal Reserve today
+- [01:03:07] raised rates a quarter, cut them a
+- [01:03:08] quarter and nothing to see here. In
+- [01:03:11] normal times, that's where that by line
+- [01:03:13] should be to the question of the central
+- [01:03:15] bank digital currency and then you're
+- [01:03:17] going to give me the either another
+- [01:03:18] question or or or pull me off stage.
+- [01:03:22] Um, we central bankers, they central
+- [01:03:25] bankers, I'm a hasb been central
+- [01:03:27] bankers, um, we're in the wholesale
+- [01:03:29] business. We ought not be in the retail
+- [01:03:31] business. It is the decision of
+- [01:03:34] Congress, the decision of the executive
+- [01:03:35] branch, if they want to create a US
+- [01:03:38] dollar stable coin, if they want to have
+- [01:03:40] a central bank digital currency, that's
+- [01:03:42] their decision.
+- [01:03:44] And if it's a retail
+- [01:03:46] product, I wouldn't very much want the
+- [01:03:49] central bank to be too involved in that.
+- [01:03:52] Um, I'm worried already that when people
+- [01:03:55] are looking for money and they go to the
+- [01:03:57] appropriations committee and the
+- [01:03:59] appropriations committee says no, they
+- [01:04:01] then come down to the Federal Reserve as
+- [01:04:02] if we're the appeals court for fiscal
+- [01:04:04] policy. I don't need when the next
+- [01:04:06] crisis comes for 300 million Americans
+- [01:04:09] to have accounts at the central bank.
+- [01:04:11] Congress is having a hard time figuring
+- [01:04:13] out how to pay for something and then
+- [01:04:14] they just say, "Well, why don't you guys
+- [01:04:16] just fill up those accounts?" My view is
+- [01:04:19] this whole discussion of cryptocurrency
+- [01:04:22] is mostly, I think,
+- [01:04:24] misunderstood. Um, this new technology
+- [01:04:27] is software. There's nothing secret
+- [01:04:30] about it, hence the word crypto. And
+- [01:04:32] currency, well, that sounds like money.
+- [01:04:35] This is software. And if our government,
+- [01:04:38] the executive branch and Congress say
+- [01:04:39] that they want to have a stable coin,
+- [01:04:41] that's a wonderful decision for them to
+- [01:04:43] make and the Fed should be playing no
+- [01:04:45] role in that. What we should be playing
+- [01:04:47] a role in and have long played a role in
+- [01:04:49] is the wholesale funding model. What
+- [01:04:52] happens when this money goes between one
+- [01:04:54] bank and another? What happens when the
+- [01:04:55] central bank is playing in the interbank
+- [01:04:57] market? Well, there there's huge reforms
+- [01:05:00] that I think can be had, and we can move
+- [01:05:02] to a system that is more secure, is more
+- [01:05:05] reliable, is more instantaneous, and
+- [01:05:08] using some of this new technology is
+- [01:05:10] certainly a very prudent way to do it.
+- [01:05:13] That's in the province of the central
+- [01:05:14] bank. Everything else is in the province
+- [01:05:16] of the executives. Well, thank you very
+- [01:05:18] much, Kevin. Um, you know, you said
+- [01:05:21] central bank, you're not a central
+- [01:05:23] banker. Central bankers never retire.
+- [01:05:25] They don't even fade away. I think
+- [01:05:27] they're always with us. So, thank you
+- [01:05:29] very much for that. Uh, please join me
+- [01:05:31] in thanking Kevin for those wonderful
+- [01:05:41] remarks. I also want to thank managing
+- [01:05:44] director George Eva for her opening
+- [01:05:46] remarks and for the IMF uh to the IMF
+- [01:05:48] for hosting us as well as all the fun
+- [01:05:51] staff who was helped in making this uh
+- [01:05:54] event possible. Um we welcome all of you
+- [01:05:58] to join us for a reception outside and
+- [01:06:01] thank you very much again for coming
+- [01:06:03] today and hope you will participate in
+- [01:06:06] future such events. Thanks.
+- [01:06:08] Thank you. Fantastic. Thank you.
+- [01:06:12] [Music]
+- [01:06:43] Hey, hey, hey.
+- [01:06:46] [Music]
+- [01:06:56] Hey,
+- [01:06:59] [Music]
