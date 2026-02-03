@@ -38,6 +38,9 @@ CPI YoY:
 - CPI >5% 且连续2个月 → 进入A1/A2防守模式
 - CPI >4% 且Warsh公开警告 → 提前布局
 
+![CPI阈值监控](../assets/images/cpi_dashboard.png)
+*CPI阈值监控：2/4/5/9%分区与关键事件对照*
+
 ### 2) 增长轨迹（次信号）
 
 ```
@@ -77,6 +80,9 @@ GDP <1%         衰退风险
 
 ## 第二部分：6场景 × 资产配置
 
+![政策场景树](../assets/images/policy_scenario_tree.png)
+*政策场景树：A/B/C主分支与A1/A2/B1/B2/C1/C2细分*
+
 | 场景 | 宏观描述 | Warsh立场 | 核心配置 |
 |------|----------|-----------|----------|
 | **A1** | 高通胀+稳增长 | 激进紧缩 | 高现金+做空久期+黄金 |
@@ -93,6 +99,9 @@ TLT: -10% (做空久期)
 GLD:  20%
 Cash: 40%
 ```
+
+![资产配置矩阵](../assets/images/allocation_matrix.png)
+*场景×资产配置矩阵（负值表示做空）*
 
 完整配置表详见: `outputs/2026_02_02_policy_scenario_tree_v1.md`
 
