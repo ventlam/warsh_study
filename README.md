@@ -12,6 +12,9 @@
 
 **核心假设**: 当Warsh的政策判断与Fed实际政策diverge时，历史数据显示应该**Trust Warsh, Fade Fed**（2021-2022通胀周期为最佳验证案例）。
 
+![CPI Dashboard](assets/images/cpi_dashboard.png)
+*CPI阈值监控仪表盘：Warsh框架核心监控指标（2-4-5-9%阈值体系）*
+
 ---
 
 ## 快速开始
@@ -46,7 +49,7 @@ frameworks/edge_cases_decision_rules.md
 
 ### 1. 政策反应函数 v1.2 (Policy Reaction Function)
 
-**文件**: `frameworks/2026_02_02_policy_reaction_function_v1.md` (21KB, 572行)
+**文件**: `frameworks/2026_02_02_policy_reaction_function_v1.md`
 
 **核心内容**:
 - ✅ 通胀阈值体系：2-4%, 4-5%, >5%, >9%
@@ -61,7 +64,7 @@ frameworks/edge_cases_decision_rules.md
 
 ### 2. 政策场景树 v1.0 (Policy Scenario Tree)
 
-**文件**: `outputs/2026_02_02_policy_scenario_tree_v1.md` (16KB, 490行)
+**文件**: `outputs/2026_02_02_policy_scenario_tree_v1.md`
 
 **6个核心场景**:
 
@@ -78,11 +81,13 @@ frameworks/edge_cases_decision_rules.md
 - 2021-2022: Warsh路径（A1→B1，短而痛）vs Powell路径（A1→A2→B2，长而乱）
 - 实际走了Powell路径，证明Warsh预警正确
 
+![Policy Scenario Tree](assets/images/policy_scenario_tree.png)
+
 ---
 
 ### 3. 投资框架 v1.0 (Investment Framework)
 
-**文件**: `frameworks/2026_02_02_investment_framework_v1.md` (24KB, 995行)
+**文件**: `frameworks/2026_02_02_investment_framework_v1.md`
 
 **完整策略框架**:
 
@@ -102,6 +107,9 @@ TLT: -10%  (做空久期)
 GLD:  20%  (通胀对冲)
 Cash: 40%  (高现金)
 ```
+
+![Asset Allocation Matrix](assets/images/allocation_matrix.png)
+*六场景资产配置矩阵 - 红色做空/低配，绿色做多/超配*
 
 #### Part III: 60+可执行规则
 
@@ -160,11 +168,17 @@ STOP: CPI <4% for 2 months
 
 **总评**: **3/4通过** → ✅ **框架验证成功**
 
+![Backtest Performance](assets/images/backtest_performance.png)
+*回测性能对比：Warsh框架在2022年危机期间显著跑赢基准*
+
+![2022 Validation](assets/images/2022_validation.png)
+*2022年验证：Warsh提前预警 vs Fed延迟反应，框架避免灾难性损失*
+
 ---
 
 ### 5. 边缘案例决策规则
 
-**文件**: `frameworks/edge_cases_decision_rules.md` (9000+字)
+**文件**: `frameworks/edge_cases_decision_rules.md`
 
 **解决8个关键问题**:
 
@@ -200,7 +214,7 @@ STOP: CPI <4% for 2 months
 
 ### 6. 月度操作手册
 
-**文件**: `frameworks/monthly_rebalance_checklist.md` (5000+字)
+**文件**: `frameworks/monthly_rebalance_checklist.md`
 
 **4步流程（70分钟/月）**:
 
@@ -231,6 +245,9 @@ Step 4: 文档记录 (5分钟) → ~22日
 - 每个场景的SPY/TLT/IEF/HYG/GLD/Cash配置
 - 紧急情况处理（恐慌时立即行动）
 
+![Monthly Workflow](assets/images/monthly_workflow.png)
+*月度操作流程：70分钟4步法，关键日期~12日(CPI公布), ~15日(决策), ~20日(执行)*
+
 ---
 
 ## 项目结构
@@ -238,13 +255,13 @@ Step 4: 文档记录 (5分钟) → ~22日
 ```
 warsh_study/
 ├── frameworks/                   # 核心框架文档
-│   ├── 2026_02_02_investment_framework_v1.md          # 投资框架（10,000行）
+│   ├── 2026_02_02_investment_framework_v1.md          # 投资框架
 │   ├── 2026_02_02_policy_reaction_function_v1.md      # 政策反应函数
-│   ├── edge_cases_decision_rules.md                   # 边缘案例规则（9,000字）
-│   └── monthly_rebalance_checklist.md                 # 操作手册（5,000字）
+│   ├── edge_cases_decision_rules.md                   # 边缘案例规则
+│   └── monthly_rebalance_checklist.md                 # 操作手册
 │
 ├── backtest/                     # 历史回测验证
-│   ├── BACKTEST_REPORT.md                             # 完整报告（8,000字）
+│   ├── BACKTEST_REPORT.md                             # 完整报告
 │   ├── backtest_plan.md                               # 回测规划
 │   ├── fetch_data.py                                  # 数据采集脚本
 │   ├── identify_scenarios.py                          # 场景识别引擎
@@ -260,9 +277,9 @@ warsh_study/
 │   └── 2026_02_02_policy_scenario_tree_v1.md          # 6场景完整分析
 │
 ├── notes/                        # 研究笔记（7个文件）
-│   ├── 2026_02_02_g30_spring_lecture_policy_analysis.md           # G30演讲分析（18KB）
-│   ├── 2026_02_02_warsh_inflation_warnings_2021_2022.md           # 通胀警告分析（18KB）
-│   ├── 2026_02_02_fraser_2008_2010_crisis_period_analysis.md      # 危机演讲分析（22KB）
+│   ├── 2026_02_02_g30_spring_lecture_policy_analysis.md           # G30演讲分析
+│   ├── 2026_02_02_warsh_inflation_warnings_2021_2022.md           # 通胀警告分析
+│   ├── 2026_02_02_fraser_2008_2010_crisis_period_analysis.md      # 危机演讲分析
 │   └── [其他session进度报告]
 │
 ├── sources/                      # 原始来源索引
@@ -305,6 +322,9 @@ warsh_study/
 - 历史证明此立场正确
 
 **意义**: Warsh vs Fed分歧时，**历史站在Warsh一边**
+
+![Warsh Timeline](assets/images/warsh_timeline.png)
+*Warsh政策立场一致性时间线：2006-2025年95%+一致性验证*
 
 ---
 

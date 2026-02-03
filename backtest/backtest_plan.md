@@ -1,240 +1,237 @@
-# Warsh Framework Historical Backtest Plan
+# Warsh框架历史回测计划
 
-**Created**: 2026-02-02
-**Period**: 2021-01 to 2024-12 (4 years)
-**Goal**: Validate framework effectiveness with real market data
-
----
-
-## Objective
-
-Quantify whether the Warsh investment framework would have generated +5-7% annual alpha vs 60/40 benchmark during 2021-2024, particularly during the 2021-2022 inflation cycle.
+**创建**: 2026-02-02
+**周期**: 2021-01 至 2024-12（4年）
+**目标**: 用真实市场数据验证框架有效性
 
 ---
 
-## Test Period Rationale
+## 目标
 
-**2021-2024 chosen because**:
-- ✅ Includes critical 2021-22 inflation cycle (Warsh warned, Fed delayed)
-- ✅ Multiple scenario transitions (A1 → A2 → B1)
-- ✅ Real stress test (9.1% peak CPI, -18% SPY in 2022)
-- ✅ Recent data = most relevant to current regime
+量化验证：Warsh投资框架在2021–2024期间能否相对60/40实现+5%~7%的年化超额收益，重点检验2021–2022通胀周期。
 
 ---
 
-## Data Requirements
+## 区间选择理由
 
-### Macro Signals (Monthly)
-- **CPI**: FRED CPIAUCSL (headline, YoY%)
-- **Core CPI**: FRED CPILFESL
-- **GDP**: FRED GDP (quarterly, interpolate monthly)
-- **Unemployment**: FRED UNRATE
-- **Fed Balance Sheet**: FRED WALCL (weekly → monthly avg)
-
-### Asset Prices (Daily → Monthly)
-- **SPY**: S&P 500 ETF (equity benchmark)
-- **TLT**: 20Y+ Treasury ETF (long duration)
-- **IEF**: 7-10Y Treasury ETF (intermediate duration)
-- **TBT**: 2x Short 20Y Treasury (short duration tool)
-- **DXY**: US Dollar Index
-- **HYG**: High Yield Corporate Bond ETF (credit)
-- **GLD**: Gold ETF
-- **Cash**: 0% (assume money market = 0 for simplicity, or FRED DFF/12)
+**选择2021–2024的原因**:
+- ✅ 覆盖关键通胀周期（Warsh预警、Fed延迟）
+- ✅ 多次场景切换（A1 → A2 → B1）
+- ✅ 真实压力测试（CPI峰值9.1%、2022年SPY -18%）
+- ✅ 数据足够新，接近当前制度环境
 
 ---
 
-## Methodology
+## 数据需求
 
-### Phase 1: Scenario Identification (Monthly)
+### 宏观信号（按月）
+- **CPI**: FRED CPIAUCSL（同比）
+- **核心CPI**: FRED CPILFESL
+- **GDP**: FRED GDP（季度数据，月度插值）
+- **失业率**: FRED UNRATE
+- **Fed资产负债表**: FRED WALCL（周频 → 月均）
 
-For each month (2021-01 to 2024-12):
+### 资产价格（日频 → 月频）
+- **SPY**: 标普500 ETF（权益基准）
+- **TLT**: 20Y+ 国债ETF（久期）
+- **IEF**: 7–10Y 国债ETF（中久期）
+- **TBT**: 2倍做空20Y（做空久期工具）
+- **DXY**: 美元指数
+- **HYG**: 高收益债ETF
+- **GLD**: 黄金ETF
+- **现金**: 0%（简化假设，可用DFF/12替代）
 
-**Step 1: Calculate indicators**
+---
+
+## 方法论
+
+### Phase 1：场景识别（按月）
+
+每个月（2021-01 到 2024-12）：
+
+**Step 1: 计算指标**
 ```
 CPI YoY = (CPI_t / CPI_t-12) - 1
-Unemployment = UNRATE
-GDP growth (trailing 4Q) = estimated
-Panic indicators = check 6 metrics
+失业率 = UNRATE
+GDP增速（4Q滚动）= 估算
+Panic指标 = 6项检查
 ```
 
-**Step 2: Map to scenario**
+**Step 2: 场景映射**
 ```
-IF CPI >5% AND Unemployment <5% → A1 (High inflation + Stable growth)
-IF CPI >5% AND Unemployment >5.5% → A2 (High inflation + Weak growth)
-IF CPI 2-4% AND Unemployment <5% → B1 (Soft landing)
-IF CPI <3% AND Unemployment >5.5% → B2 (Disinflationary recession)
-IF 2+ panic indicators → C1 (Liquidity shock)
-IF Credit spreads >300bp (no panic) → C2 (Credit shock)
+CPI >5% 且 失业率 <5%   → A1（高通胀+稳增长）
+CPI >5% 且 失业率 >5.5% → A2（高通胀+弱增长）
+CPI 2-4% 且 失业率 <5%  → B1（软着陆）
+CPI <3% 且 失业率 >5.5% → B2（通缩性衰退）
+2+ Panic指标触发         → C1（流动性冲击）
+信用利差 >300bp         → C2（信用冲击）
 ```
 
-**Step 3: Check for Warsh public statements**
-- 2021-06: WSJ op-ed warning
-- 2021-12: "Fed is culprit"
-- Mark these months with "Warsh dissent" flag
+**Step 3: Warsh声明标记**
+- 2021-06: WSJ预警
+- 2021-12: “Fed是元凶”
+- 这些月份标记为“Warsh dissent”
 
 ---
 
-### Phase 2: Portfolio Construction (Monthly Rebalance)
+### Phase 2：组合构建（按月再平衡）
 
-**Scenario A1 allocation** (High inflation + Stable growth):
+**A1示例配置**（高通胀+稳增长）:
 ```
-SPY:   50% (vs 60/40's 60%)
-TLT:  -20% (short duration via TBT or futures)
-IEF:    0%
-Cash:  40%
-DXY:  +10% (long USD)
-HYG:    0% (avoid credit)
-GLD:   20%
-```
-
-**Scenario B1 allocation** (Soft landing):
-```
-SPY:   70%
-TLT:   10%
-IEF:   10%
-Cash:   10%
-DXY:    0%
-HYG:    0%
-GLD:    0%
+SPY:  50%
+TLT: -20%（做空久期）
+IEF:   0%
+Cash: 40%
+DXY: +10%
+HYG:   0%
+GLD:  20%
 ```
 
-(Define all 6 scenarios)
+**B1示例配置**（软着陆）:
+```
+SPY:  70%
+TLT:  10%
+IEF:  10%
+Cash: 10%
+DXY:   0%
+HYG:   0%
+GLD:   0%
+```
 
-**Rebalancing rules**:
-- Rebalance at month-end
-- Transaction costs = 0.1% per trade (assume)
-- Slippage = 0 (simplification)
+（其余6个场景同理定义）
+
+**再平衡规则**:
+- 月末再平衡
+- 交易成本 = 每笔0.1%（估算）
+- 滑点 = 0（简化）
 
 ---
 
-### Phase 3: Benchmark Portfolios
+### Phase 3：基准组合
 
-**60/40 Traditional**:
+**60/40传统**:
 - 60% SPY, 40% IEF
-- Rebalance quarterly
+- 季度再平衡
 
 **100% SPY**:
-- Buy and hold
+- 买入持有
 
-**Warsh Framework (Dynamic)**:
-- Scenario-based allocation
-- Monthly rebalance
-
----
-
-### Phase 4: Performance Metrics
-
-Calculate monthly returns, then compute:
-
-1. **Annual Returns** (CAGR)
-2. **Volatility** (annualized std dev)
-3. **Sharpe Ratio** (return / volatility, assume Rf=0)
-4. **Max Drawdown** (peak to trough)
-5. **Calmar Ratio** (return / max drawdown)
-6. **Alpha** (Warsh - 60/40)
-7. **Win Rate** (% months beating 60/40)
-
-**Critical Year Analysis**:
-- 2022 return (the test year where Warsh warned early)
+**Warsh框架**:
+- 场景驱动配置
+- 月度再平衡
 
 ---
 
-## Expected Outcomes
+### Phase 4：绩效指标
 
-### Hypothesis
-- **2021**: Warsh framework raises cash early (~Jun when CPI >5%)
-  - Expected: Underperform in H1 (stocks still rising)
-  - Expected: Outperform in H2 (start of selloff)
+计算月度收益后，输出：
 
-- **2022**: Warsh framework short duration + underweight equity
-  - Expected: Significantly outperform (60/40 down ~18%, SPY down ~18%)
-  - Target: Warsh down only 0-5%
+1. **年化收益**（CAGR）
+2. **波动率**（年化）
+3. **Sharpe**（假设Rf=0）
+4. **最大回撤**
+5. **Calmar**（收益/回撤）
+6. **Alpha**（Warsh - 60/40）
+7. **胜率**（战胜60/40的月份）
 
-- **2023-2024**: Warsh framework gradually re-risk
-  - Expected: Underperform rally (cautious positioning)
-  - But lower volatility
-
-**Overall (2021-2024)**:
-- Warsh CAGR: 5-8%
-- 60/40 CAGR: 2-4%
-- Alpha: +3-4%
-- Sharpe: Warsh 0.7-0.9 vs 60/40 0.3-0.5
+**关键年份分析**:
+- 2022年收益（验证年）
 
 ---
 
-## Success Criteria
+## 预期结果
 
-**Must achieve**:
-- ✅ Alpha >3% annually (vs 60/40)
-- ✅ Max drawdown <15% (vs 60/40's ~20%)
-- ✅ 2022 return >-5% (vs 60/40's ~-18%)
+### 假设
+- **2021**：Warsh提前抬高现金
+  - 上半年可能跑输
+  - 下半年预计跑赢
 
-**Nice to have**:
-- ✅ Sharpe ratio >0.7
-- ✅ Win rate >55% (months beating 60/40)
-- ✅ Positive skew (avoid fat tails)
+- **2022**：短久期 + 低权益
+  - 显著跑赢
+  - 目标：Warsh跌幅 0–5%
 
-**Failure conditions**:
+- **2023–2024**：逐步恢复风险
+  - 可能跑输牛市
+  - 但波动率更低
+
+**总体预期（2021–2024）**:
+- Warsh CAGR: 5–8%
+- 60/40 CAGR: 2–4%
+- Alpha: +3–4%
+- Sharpe: Warsh 0.7–0.9
+
+---
+
+## 成功标准
+
+**必须达到**:
+- ✅ Alpha >3%
+- ✅ 最大回撤 <15%
+- ✅ 2022收益 >-5%
+
+**加分项**:
+- ✅ Sharpe >0.7
+- ✅ 胜率 >55%
+- ✅ 正偏度
+
+**失败条件**:
 - ❌ Alpha <1%
-- ❌ Max drawdown >60/40
-- ❌ 2022 worse than 60/40
+- ❌ 最大回撤 >60/40
+- ❌ 2022收益更差
 
 ---
 
-## Risk Factors
+## 风险因素
 
-**Things that could invalidate the test**:
-1. **Look-ahead bias**: Using CPI data before public release
-   - Mitigation: Use release dates (CPI for Jan published ~Feb 10)
+1. **前瞻偏差**: 使用公布前CPI
+   - 对策：按公布日期对齐
 
-2. **Overfitting**: Designing allocation to fit historical data
-   - Mitigation: Allocations based on pre-defined framework, not optimized
+2. **过拟合**: 用历史数据优化配置
+   - 对策：配置必须来自框架规则，不做拟合
 
-3. **Execution impossibility**: Can't actually short TLT in size
-   - Mitigation: Note this in limitations
+3. **执行可行性**: TLT做空规模限制
+   - 对策：在限制中记录
 
-4. **Transaction costs**: Frequent rebalancing expensive
-   - Mitigation: Include 0.1% cost estimate
-
----
-
-## Timeline
-
-**Phase 1**: Data collection (30 min)
-**Phase 2**: Scenario mapping (1 hour)
-**Phase 3**: Portfolio simulation (1 hour)
-**Phase 4**: Performance analysis (30 min)
-
-**Total**: 3 hours
+4. **交易成本**: 频繁再平衡
+   - 对策：统一计入0.1%估算
 
 ---
 
-## Deliverables
+## 时间安排
 
-1. **backtest_data.csv**: Monthly data (CPI, prices, scenarios)
-2. **backtest_results.csv**: Monthly returns by strategy
-3. **backtest_report.md**: Full analysis with charts
-4. **backtest_critique.md**: Honest assessment of limitations
+- Phase 1: 数据收集（30分钟）
+- Phase 2: 场景映射（1小时）
+- Phase 3: 组合模拟（1小时）
+- Phase 4: 绩效分析（30分钟）
 
----
-
-## Next Steps After Backtest
-
-**If successful (Alpha >3%)**:
-- ✅ Proceed to Task #2 (Dashboard)
-- ✅ Begin paper trading (2026-02 onwards)
-- ✅ Refine edge case rules
-
-**If marginal (Alpha 1-3%)**:
-- ⚠️ Adjust thresholds
-- ⚠️ Try different rebalancing frequencies
-- ⚠️ Re-run backtest
-
-**If failed (Alpha <1%)**:
-- ❌ Deep dive into failure months
-- ❌ Re-examine core assumptions
-- ❌ Consider framework revision or pause
+**总计**: 约3小时
 
 ---
 
-**Status**: Planning complete, ready to execute
+## 交付物
+
+1. **backtest_data.csv**: 月度数据
+2. **backtest_results.csv**: 月度收益
+3. **BACKTEST_REPORT.md**: 回测报告
+4. **backtest_critique.md**: 限制与批判
+
+---
+
+## 回测后行动
+
+**若成功（Alpha>3%）**:
+- ✅ 进入Dashboard开发
+- ✅ 开始纸上交易
+- ✅ 优化边缘规则
+
+**若勉强（1–3%）**:
+- ⚠️ 调整阈值
+- ⚠️ 试不同再平衡频率
+
+**若失败（<1%）**:
+- ❌ 深挖失败月份
+- ❌ 重新检视核心假设
+
+---
+
+**状态**: 规划完成，进入执行

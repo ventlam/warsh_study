@@ -1,48 +1,48 @@
-# Policy Reaction Function Template (Warsh)
+# 政策反应函数模板（Warsh）
 
 authors: Vent&GPT
 tags: [framework, policy, reaction-function, template]
 created: 2026-02-02
 updated: 2026-02-02
 
-## Core stance snapshot
-- Inflation: 
-- Growth: 
-- Financial stability: 
-- Independence: 
-- Balance sheet: 
-- Communication strategy: 
+## 核心立场快照
+- 通胀: 
+- 增长: 
+- 金融稳定: 
+- 独立性: 
+- 资产负债表: 
+- 沟通策略: 
 
-## Triggers and thresholds
-- Inflation triggers:
-  - Level:
-  - Persistence:
-  - Expectations:
-- Growth triggers:
-  - Output gap:
-  - Labor market stress:
-- Financial stability triggers:
-  - Liquidity stress:
-  - Credit spreads:
-  - Market dysfunction:
+## 触发与阈值
+- 通胀触发:
+  - 水平:
+  - 持续性:
+  - 预期:
+- 增长触发:
+  - 产出缺口:
+  - 就业压力:
+- 金融稳定触发:
+  - 流动性压力:
+  - 信用利差:
+  - 市场功能受损:
 
-## Policy tools preference
-- Rates:
-- Balance sheet:
-- Forward guidance:
-- Regulatory posture:
+## 政策工具偏好
+- 利率:
+- 资产负债表:
+- 前瞻指引:
+- 监管立场:
 
-## Priority ordering
+## 优先级排序
 1. 
 2. 
 3. 
 
-## Conditional statements (quote backed)
-- If ___ then ___ because ___ (source)
-- If ___ then ___ because ___ (source)
+## 条件句（需引用支撑）
+- 如果 ___ 则 ___，因为 ___（来源）
+- 如果 ___ 则 ___，因为 ___（来源）
 
-## Evidence log
-- Source:
-  - Date:
-  - Quote:
-  - Tag:
+## 证据日志
+- 来源:
+  - 日期:
+  - 引用:
+  - 标签:
